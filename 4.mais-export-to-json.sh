@@ -1,4 +1,4 @@
-# converteer het Export XML bestand van MF naar JSON
+# converteer het Export XML bestand van Mais naar JSON
 # de conversie wordt via curl remote uitgevoerd
 
 URL=http://mfxml2json.0x03.nl:8888/run
