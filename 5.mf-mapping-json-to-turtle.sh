@@ -1,4 +1,4 @@
-# mapping toepassen van MaisFlexis data in JSON naar linked data in Turtle
+# mapping toepassen van MF data in JSON naar linked data in Turtle
 
 JSON_FILE=data/maisflexis/nieuw-A0003_14_158_flexis.json
 TURTLE_FILE=data/result/Collectie-Operaesje-Fers.ttl
