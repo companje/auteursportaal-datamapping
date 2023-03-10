@@ -3,7 +3,7 @@
 2. ```pip install -r requirements.txt```
 
 # Usage
-```./1.download-omeka.py```
+```./1.omeka-harvest.py```
 
 ```./2.omeka-jsonld-to-turtle.py```
 
