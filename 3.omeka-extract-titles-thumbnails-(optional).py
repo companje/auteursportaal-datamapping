@@ -16,7 +16,6 @@ preds = [
 	URIRef("http://omeka.org/s/vocabs/o#label"),
 	URIRef("http://schema.org/title")
 ]
-
 for pred in preds:
     for subj,_,obj in g.triples((None, pred, None)):
         titles.add((subj, URIRef("https://schema.org/name"), obj))
