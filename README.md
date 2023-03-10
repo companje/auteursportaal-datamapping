@@ -20,12 +20,12 @@
 
 4. convert mais mfxml-export file to a list of json objects. (executed remotely)
 ```
-./4.maisflexis-export-to-json.sh
+./4.mais-export-to-json.sh
 ```
 
 5. use liquid templates to format Turtle files with values from JSON ('Collectie-Operaesje-Fers')
 ```
-./5.maisflexis-mapping-json-to-turtle.sh
+./5.mais-mapping-json-to-turtle.sh
 ```
 
 6. use liquid templates to format Turtle files with values from CSV ('Schrijvers')
