@@ -1,0 +1,3319 @@
+@prefix id: <https://collectie-operaesje-fers.archief.io/id/> .
+@prefix nta: <http://data.bibliotheken.nl/id/thes/> .
+@prefix schema: <https://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+id:002b4ab5b6bfdbd00e80684908c04f69 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1935-01-01"^^xsd:date ;
+    schema:name "Sleutelaar, Hans" ;
+    schema:sameAs nta:p070238979,
+        wd:Q95268837 .
+
+id:00aa1ee4a3afbfd3f1032b8b0e52c482 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1952-03-06"^^xsd:date ;
+    schema:name "Kuyper, Sjoerd" ;
+    schema:sameAs nta:p068465653,
+        wd:Q3189605 .
+
+id:017f2de6b8a7f1bf00cd78505e2ad708 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Halbertsma, Joast Hiddes" ;
+    schema:sameAs wd:Q943780 .
+
+id:0234aea5f95904310eec27dcf6578fff a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jansen - Strik" .
+
+id:024545bb9668c284c660722a82182121 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Holkema, A." ;
+    schema:sameAs nta:p067474500 .
+
+id:03918a2a835aa4ffda0c9bc3f7b5caf6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dyk, Pier van" .
+
+id:03da67965a27756726a7971e71a047f2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ahrend, Erich" .
+
+id:055b7c9c58f688c4c645a53ad73156c4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jepma, Jan" .
+
+id:05e4faaf7209988836f49f583e7cecc3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wagenaar, Jan" ;
+    schema:sameAs nta:p068412789,
+        wd:Q276704 .
+
+id:066508c9e520cccc7ba7d095d819e7b3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hartog, Sybout" ;
+    schema:sameAs nta:p154362190 .
+
+id:0666607b1ea1fba4e0fc57fcef967c56 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-01-01"^^xsd:date ;
+    schema:name "Kaspersma, Jelle" ;
+    schema:sameAs nta:p074180975,
+        wd:Q18093217 .
+
+id:068a0ea928251f703840eb1e382dd20a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-04-22"^^xsd:date ;
+    schema:deathDate "2018-04-20"^^xsd:date ;
+    schema:name "Yedema, Piter" ;
+    schema:sameAs nta:p072550570,
+        wd:Q52422406 .
+
+id:074334688980187614f94a9bd10f26d3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Barbiers, Lia" ;
+    schema:sameAs nta:p072907304 .
+
+id:0745f9f3b3e28f1dfaebf7ddf86f3cc2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1933-09-05"^^xsd:date ;
+    schema:deathDate "2015-12-22"^^xsd:date ;
+    schema:name "Zijlstra, Jaap" ;
+    schema:sameAs nta:p069264074,
+        wd:Q2450659 .
+
+id:07bea1f91571e3fb2c7aca7d8f38631c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1945-08-04"^^xsd:date ;
+    schema:deathDate "2018-04-04"^^xsd:date ;
+    schema:name "Boomsma, Joop" ;
+    schema:sameAs nta:p068618522,
+        wd:Q13136485 .
+
+id:09b6d384db2e6aa696cf3131851de650 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-01-01"^^xsd:date ;
+    schema:name "Hoogstraten, Harry" ;
+    schema:sameAs nta:p068657722,
+        wd:Q97396435 .
+
+id:09d5c16fb71ec0a2b39c55b927f4ad0e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1902-12-29"^^xsd:date ;
+    schema:name "Nissen, Moritz" ;
+    schema:sameAs nta:p137674791,
+        wd:Q20567 .
+
+id:0c41a360be6ca1c01b64ae6655bd06ff a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1933-06-29"^^xsd:date ;
+    schema:name "Leest, Reinder Rienk van der" ;
+    schema:sameAs nta:p068531427,
+        wd:Q13411192 .
+
+id:0cd23871f4d8a0740d3a263d024c22cc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Veenstra, Jaap" ;
+    schema:sameAs nta:p072322365 .
+
+id:0ee3258ffe3cea428f2cce44d57f68d4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Welling, Jules" ;
+    schema:sameAs nta:p068426054 .
+
+id:110ec427259a345c0567a7826c9f6282 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-06-02"^^xsd:date ;
+    schema:name "Steenmeijer, Tineke" ;
+    schema:sameAs nta:p06864051X,
+        wd:Q13138340 .
+
+id:126c70db8be603cd2fc0b3e82b3eb8ff a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1928-12-29"^^xsd:date ;
+    schema:deathDate "2007-12-13"^^xsd:date ;
+    schema:name "Duursma, Swaantsje" ;
+    schema:sameAs nta:p074647164,
+        wd:Q13138163 .
+
+id:12de07bbd6fbd2abfdc03f58d77987d8 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Babiers, Lia" .
+
+id:145dcbcabe666b7b15b139972cb7c8e9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1909-11-22"^^xsd:date ;
+    schema:deathDate "2002-04-05"^^xsd:date ;
+    schema:name "Tamminga, D. A." ;
+    schema:sameAs wd:Q4896796 .
+
+id:14958c5941303b763d62820cfdb41e55 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hoekstra, Aafke" ;
+    schema:sameAs nta:p340506822 .
+
+id:159514df9629cefb04113dc0d65c896f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1922-12-19"^^xsd:date ;
+    schema:deathDate "2007-06-11"^^xsd:date ;
+    schema:name "Michaëlis, Hanny" ;
+    schema:sameAs nta:p070223734,
+        wd:Q2090463 .
+
+id:15d9dbe87d7e333c4e33c4e461eeb697 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Beer, Jan de" ;
+    schema:sameAs nta:p069937826 .
+
+id:180093c5a70966850a08127ebcc20e27 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Gemmink, Inge" ;
+    schema:sameAs nta:p069005850 .
+
+id:19527ae5d55f6a954dc89b0ee3286a2a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Veenstra, Tsjerk" ;
+    schema:sameAs nta:p073861197 .
+
+id:1958fd1826f315a93ba23ad4d64e134d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dijk, Pier van" ;
+    schema:sameAs nta:p241423252 .
+
+id:19983a976fc5e95a8a1d82a9d642f32b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Verveld, Reinhard" ;
+    schema:sameAs nta:p07417357X .
+
+id:19acd416075c1dbc49e7cf8896526679 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Lievaert, Inge" ;
+    schema:sameAs nta:p241592550 .
+
+id:19b64a7d565f0aafe9fee18e2650ff5a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ditzel, W.H." .
+
+id:19bb9d0ed58261da87e9eaa873150067 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1920-04-06"^^xsd:date ;
+    schema:deathDate "2002-05-06"^^xsd:date ;
+    schema:name "Walta, Meinte" ;
+    schema:sameAs nta:p075152959,
+        wd:Q15708645 .
+
+id:1a539449b828656f525e7dc29b3beceb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wiersma, Syds" ;
+    schema:sameAs nta:p100711731,
+        wd:Q97259063 .
+
+id:1a703417bb2b434b86c705e44239a29a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Groot, Pieter de" .
+
+id:1b3574cfeaa7dddd76e902241efc1385 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hanenburg, Kobe" ;
+    schema:sameAs nta:p06781770X .
+
+id:1b54207ff23316be397b9b4a2686b013 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-04-28"^^xsd:date ;
+    schema:deathDate "1991-11-16"^^xsd:date ;
+    schema:name "Kalmthout, Kees van" ;
+    schema:sameAs nta:p069057370,
+        wd:Q110082119 .
+
+id:1cac4bccc7d9f22c55416dc42bff4ef3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1918-07-08"^^xsd:date ;
+    schema:deathDate "2007-02-14"^^xsd:date ;
+    schema:name "Idserda, Jacques" ;
+    schema:sameAs nta:p071286810,
+        wd:Q15876834 .
+
+id:1ce57fb2119a3f047f7d8db5d6baae1c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Sakes, Mayke" .
+
+id:1d843c6bba227a3a60fd538a55b136d1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Cnossen, Yttje" ;
+    schema:sameAs nta:p290731240 .
+
+id:1e8a4b396faf9817aa733f8012e53769 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Tasma-Hollander, A.S." .
+
+id:1f3073b1ea3bb8a6aff4deee34ae026c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1968-03-19"^^xsd:date ;
+    schema:name "Schurer, Fedde" ;
+    schema:sameAs nta:p068610629,
+        wd:Q2510550 .
+
+id:1f85dc83623e8739445ea00f19cd60f4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1917-09-17"^^xsd:date ;
+    schema:deathDate "1994-06-28"^^xsd:date ;
+    schema:name "Wybenga, Jan" ;
+    schema:sameAs nta:p068875215,
+        wd:Q13136369 .
+
+id:1ffa14564b3c4fe8e355fd0762d83500 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1924-10-31"^^xsd:date ;
+    schema:deathDate "1989-07-22"^^xsd:date ;
+    schema:name "Zwaag, Geart van der" ;
+    schema:sameAs nta:p069632715,
+        wd:Q13135790 .
+
+id:21e87b65ea7d810b605e8bb80781f42b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Klinkhaemer, Peggy" ;
+    schema:sameAs nta:p072656719 .
+
+id:22113d19eb68ac4fb88174707608b2e8 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-01-01"^^xsd:date ;
+    schema:name "Bloemhoff, Henk" ;
+    schema:sameAs nta:p068402422,
+        wd:Q3974562 .
+
+id:22c4eba09ca845bb9a225ea11e992e2e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Folmer, Jan" .
+
+id:23521eeb3ec89f7362743ed16b9c8eb0 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Beits" .
+
+id:239c5dfe4c345a217142ad081618f428 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bult, Oene" ;
+    schema:sameAs nta:p069424977 .
+
+id:23edba0955d082f314cc57da42ad6174 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hollema, Repke" ;
+    schema:sameAs nta:p093084951 .
+
+id:24b65f7d9d6e15247c6beaadb61600d2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1932-07-04"^^xsd:date ;
+    schema:deathDate "1991-01-14"^^xsd:date ;
+    schema:name "Zanger, Jan F. de" ;
+    schema:sameAs nta:p068569483,
+        wd:Q1682414 .
+
+id:2588b3bcd91a9f4c0a8328bad02d1359 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1951-06-07"^^xsd:date ;
+    schema:name "Craen, Wilfried van" ;
+    schema:sameAs nta:p069008671,
+        wd:Q22691631 .
+
+id:266c8a64ffd4afc13b9679a3833c74fe a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1951-11-03"^^xsd:date ;
+    schema:name "Kootstra, Douwe" ;
+    schema:sameAs nta:p07268965X,
+        wd:Q13135333 .
+
+id:26ca2d3a9574d6f8b0ce2a8f13284881 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Stelwagen, Tjibbe" .
+
+id:26eab4da8c4559aa3e51a06b13463c2a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1959-02-15"^^xsd:date ;
+    schema:name "Kooistra, Jan" ;
+    schema:sameAs nta:p068501315,
+        wd:Q20604736 .
+
+id:2756d83cfafdeb877822f341bd59b899 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Berger, Edsard" ;
+    schema:sameAs nta:p071779736 .
+
+id:2b06e35c337e4f84f49136145103dd9e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1947-11-23"^^xsd:date ;
+    schema:deathDate "2008-01-13"^^xsd:date ;
+    schema:name "Adams, Wilfried" ;
+    schema:sameAs nta:p071632182,
+        wd:Q23581099 .
+
+id:2b5df6668e5b9c740ef04a65e1aa5dfd a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Slagter, Joop" ;
+    schema:sameAs nta:p166246182 .
+
+id:2b826de018fa5329189b30631cc75b0c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1908-01-01"^^xsd:date ;
+    schema:deathDate "1991-01-01"^^xsd:date ;
+    schema:name "Hof - de Boer, Lamkje" ;
+    schema:sameAs wd:Q24348706 .
+
+id:2beac46934c5dabd0eb7e36fe27f4bef a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-01-01"^^xsd:date ;
+    schema:name "Jong, Anny de" ;
+    schema:sameAs nta:p412013207,
+        wd:Q18093195 .
+
+id:2c05d23e4bda03245405500c08f42a44 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1902-11-28"^^xsd:date ;
+    schema:deathDate "1984-05-29"^^xsd:date ;
+    schema:name "Porte, Anne" ;
+    schema:sameAs nta:p241663857,
+        wd:Q13134627 .
+
+id:2d61ed573be314bc7f5962d4335f6d74 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1967-01-01"^^xsd:date ;
+    schema:name "Johannsen, Albrecht" ;
+    schema:sameAs nta:p07435440X,
+        wd:Q20671 .
+
+id:2d7188ecaea5a70dd835aaf3a5a6d5bc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Postema, Jits" ;
+    schema:sameAs nta:p07172446X .
+
+id:2e383d57c9065c1cd4753b3549148abf a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1943-07-21"^^xsd:date ;
+    schema:deathDate "2015-06-15"^^xsd:date ;
+    schema:name "Waarsenburg, Hans van de" ;
+    schema:sameAs nta:p069094500,
+        wd:Q2178745 .
+
+id:2e5d4cfc2d8df998e14950878f70c5fa a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wal, Lenie van der" .
+
+id:2efd142cfbaeede25d19fe77ba41422b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1955-02-09"^^xsd:date ;
+    schema:name "Hettinga, Eeltsje" ;
+    schema:sameAs nta:p07416385X,
+        wd:Q2516070 .
+
+id:304950929cc0d559aa41370d033d9ab9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Joseph, Robert" .
+
+id:30f8ac399b2e6b298b70afe7e7f7365d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1910-01-28"^^xsd:date ;
+    schema:deathDate "1970-09-12"^^xsd:date ;
+    schema:name "Jonkman, Geart" ;
+    schema:sameAs nta:p069314004,
+        wd:Q13135800 .
+
+id:328ba390e3d6bbc090b60e4275424752 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1955-03-14"^^xsd:date ;
+    schema:name "Bangma, Jelle" ;
+    schema:sameAs nta:p073424773,
+        wd:Q18092748 .
+
+id:339cc2493938ab36298f86a830ef8ca5 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Samplonius, M." ;
+    schema:sameAs wd:Q61106212 .
+
+id:33f5f0c05f9659e3d4454afeba94c58b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1955-07-16"^^xsd:date ;
+    schema:name "Hettema, Tsjisse" ;
+    schema:sameAs nta:p148575587,
+        wd:Q13138429 .
+
+id:35334e3a148a6ae36f6c8ece10c7e61b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kuiters, Swaantje" .
+
+id:35f7b5ce8f42754fa7540b52db22826d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-01-20"^^xsd:date ;
+    schema:deathDate "2020-10-31"^^xsd:date ;
+    schema:name "Haan, Josse de" ;
+    schema:sameAs nta:p072801646,
+        wd:Q13136498 .
+
+id:3630143658d48e86ec62a27bcd17926d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1963-01-01"^^xsd:date ;
+    schema:name "Lont, Titia" ;
+    schema:sameAs nta:p073955914,
+        wd:Q2752558 .
+
+id:36cc1fa30845e01e40a782cafd57ab2d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-10-13"^^xsd:date ;
+    schema:name "Witbraad, Gryt" ;
+    schema:sameAs nta:p17423614X,
+        wd:Q13135943 .
+
+id:37516e950a70537a3566d0d532cc3748 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jong, Jaap de" .
+
+id:37748a528c0d33aad2ef469877ceb016 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Huizinga, Douwe" .
+
+id:398c4a7f8e2918baa8a10fc730322942 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1930-05-12"^^xsd:date ;
+    schema:name "Troelstra, Piter Jelles" ;
+    schema:sameAs wd:Q494665 .
+
+id:3b0d703402c16b622c5d17fc4b778b57 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Quentin, Miep" .
+
+id:3b2029003caa7fbd0635da51689b1b25 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Deswert, Fred" .
+
+id:3b7290b783fc1c514ff0a4ca3d79177c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Buising, Gerrit" .
+
+id:3c79228bd6ad56c6d0d92f9621e4a3bb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1933-01-01"^^xsd:date ;
+    schema:name "Koopmans, Anne" ;
+    schema:sameAs nta:p132861550,
+        wd:Q13134626 .
+
+id:3e20348e13b5f59d69b4c9136e16383b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1942-02-26"^^xsd:date ;
+    schema:name "Kneepkens, Manuel" ;
+    schema:sameAs nta:p068176236,
+        wd:Q2129110 .
+
+id:3fc6c04489711ed1cae9756e7f48a015 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Daen, Daniël (ps. Willem Abma)" .
+
+id:3fffa417c617525a4871a0f4a2172d6b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ensing, B." .
+
+id:4057185868e56f2ae648facacb3c1688 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Doppenberg, Jeannette" ;
+    schema:sameAs nta:p100701329 .
+
+id:4341cae562f0610d19b318053d248eae a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1950-01-01"^^xsd:date ;
+    schema:name "Berkenbosch, Karst" ;
+    schema:sameAs nta:p070631913,
+        wd:Q13136560 .
+
+id:439c1a11c2197b74c3a5bc4cb08a82f2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Flapper - de Vries, S." .
+
+id:446e8b4c31a83d2cf89af38dc1ca30dd a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1931-11-23"^^xsd:date ;
+    schema:name "Bijlsma, Jan J." ;
+    schema:sameAs nta:p072534265,
+        wd:Q18092769 .
+
+id:44fcd4a516231bf2c82351814cdec424 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Miedema, Frou" .
+
+id:45bbe13ef8e274d0a3f417b2766cdd79 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1932-05-02"^^xsd:date ;
+    schema:name "Beranová, Jana" ;
+    schema:sameAs nta:p072276681,
+        wd:Q2889944 .
+
+id:47e5a3be8268dc6be6fbdff185882db8 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Molen, Janke van der" .
+
+id:4819e107f5f2f306e12ac15239b45f0d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1953-11-04"^^xsd:date ;
+    schema:name "Albach, Hester" ;
+    schema:sameAs nta:p073086762,
+        wd:Q2483303 .
+
+id:4868ff5ac22dc55f3700a2e13fa06280 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-03-18"^^xsd:date ;
+    schema:name "Bierman, Willem" ;
+    schema:sameAs nta:p070392188,
+        wd:Q14754390 .
+
+id:4881ca8a0c904e5f770dfa837cec5da1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1929-05-27"^^xsd:date ;
+    schema:deathDate "2001-08-30"^^xsd:date ;
+    schema:name "Brouwer, Marten" ;
+    schema:sameAs nta:p068960670,
+        wd:Q67197889 .
+
+id:48db0e9741c5f7aefa596846238c72b3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1934-05-20"^^xsd:date ;
+    schema:deathDate "1991-11-19"^^xsd:date ;
+    schema:name "Rutke, Fem" ;
+    schema:sameAs nta:p071750215,
+        wd:Q2691629 .
+
+id:498523cecac6297f9656f0cbb659f2bc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1924-11-06"^^xsd:date ;
+    schema:deathDate "2014-02-28"^^xsd:date ;
+    schema:name "Peanstra, Tsjits" ;
+    schema:sameAs nta:p068002904,
+        wd:Q13138431 .
+
+id:4989eb7be1473a3f8b87881fb0c2ad09 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Putte, Hein van der" .
+
+id:49ede0cdbea24a14c9e770aec9e28118 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Meer, Steven van der" ;
+    schema:sameAs nta:p244026955 .
+
+id:49fb4c46c0431f44e4879442aa35c3ae a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1923-03-11"^^xsd:date ;
+    schema:deathDate "2015-03-31"^^xsd:date ;
+    schema:name "Besten, Ad den" ;
+    schema:sameAs nta:p069335958,
+        wd:Q2492353 .
+
+id:4ad88026d7456215b47de5ae2a155dca a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1931-02-01"^^xsd:date ;
+    schema:deathDate "2018-10-29"^^xsd:date ;
+    schema:name "Bruinsma, Klaas" ;
+    schema:sameAs nta:p069155488,
+        wd:Q3136813 .
+
+id:4b35f9c21fabb95083596312136a5dfc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Feddema-Dykstra, Tite" .
+
+id:4ba0fce85c3e5b8188f33391ce6badd6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Steen, Peter van" ;
+    schema:sameAs nta:p072611340 .
+
+id:4ee5063bd85ee5d323a2f9a0ddea47e7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1908-02-15"^^xsd:date ;
+    schema:deathDate "1983-06-03"^^xsd:date ;
+    schema:name "Wassenaer, Ella" ;
+    schema:sameAs nta:p068857128,
+        wd:Q13138766 .
+
+id:4f94963d5ac4ccbb91d7f72e475766a3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bakker, Rien" ;
+    schema:sameAs nta:p331652331 .
+
+id:4fb8ff1c9200c999b245d4d20fe15a5f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Brouwer, Jelle" ;
+    schema:sameAs nta:p068611226,
+        wd:Q98903915 .
+
+id:5228af1bb6491a8358c9c80961bd5a43 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Vandamme, Arsène" .
+
+id:5254ce6f3f122e690c06cafd15866da1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bons, Irnie" .
+
+id:52a54399b578e1ef4cc294477b7111a4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1900-12-17"^^xsd:date ;
+    schema:deathDate "2003-09-29"^^xsd:date ;
+    schema:name "Klinkenberg, Gerard van" ;
+    schema:sameAs nta:p070220786,
+        wd:Q2187305 .
+
+id:53a636fbca9e205fc0958f11fc9685a6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1934-07-01"^^xsd:date ;
+    schema:name "Dotinga, Jan" ;
+    schema:sameAs wd:Q18092942 .
+
+id:53bd46bfbc95d4d7f4e74cfbfd9c8578 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Steijer, Rudolf" .
+
+id:53c20799f5b5bb010f817e004c31d2a6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Eijck, Ans" .
+
+id:5476717dc481c565aa49a2ee4fec49c1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hollander, F.G." ;
+    schema:sameAs nta:p073236411 .
+
+id:54871e7e67bef53b57331873f88ee699 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "N.N." .
+
+id:55b6171b0bf2acd8dd17e74dcf6d3ba7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Rijs, Vincent" .
+
+id:55f06fcb0765a0a21a911ecc3579663d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1974-10-31"^^xsd:date ;
+    schema:deathDate "2007-06-24"^^xsd:date ;
+    schema:name "Natasja" ;
+    schema:sameAs wd:Q242325 .
+
+id:55fafbb730689c8414b609f4eb1ab75c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Tollenaer, A. de" ;
+    schema:sameAs wd:Q98804189 .
+
+id:56920b807624766c5789c29462b3f98f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Oorsaal, M. van" .
+
+id:57bbda5707fec9ef6d86975ace56ff31 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1962-06-26"^^xsd:date ;
+    schema:name "Jong, Steven de" ;
+    schema:sameAs nta:p148675972,
+        wd:Q2314995 .
+
+id:5874788892511304fd92bacf7aaa8306 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Houtman, Harmen" ;
+    schema:sameAs nta:p068345429 .
+
+id:59de644a87956ed2fb8f736663fd9e55 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Visser, Leo" ;
+    schema:sameAs nta:p402176561 .
+
+id:5aaa5ea4499c63c9bde53c85894b03ce a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boonstra, Benne Lútsen" .
+
+id:5b6a7423332f946746892374d0dce038 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1907-11-07"^^xsd:date ;
+    schema:deathDate "1989-02-07"^^xsd:date ;
+    schema:name "Mok, Maurits" ;
+    schema:sameAs nta:p068959893,
+        wd:Q4334696 .
+
+id:5c1b02283ed8cae4f447e9d000dd122b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-01-31"^^xsd:date ;
+    schema:name "Laverman, Bartle" ;
+    schema:sameAs nta:p071366105,
+        wd:Q13134743 .
+
+id:5c53a14b950ae3d16f0e06d71d181c08 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Vries, Wim de" .
+
+id:5d6f30dd2a57fb6b7d0f1f352637d709 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-08-26"^^xsd:date ;
+    schema:name "Bruggen, Peter van" ;
+    schema:sameAs nta:p100102395,
+        wd:Q5319840 .
+
+id:602ebaed2ae8dfbb04f88aa9657fa3b2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jong, Boukje Tsjerkje de" ;
+    schema:sameAs nta:p181405202 .
+
+id:605fb23a0cf6fe2e2b59de4dd63d5fb2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Brink, Aleid" ;
+    schema:sameAs nta:p13141058X .
+
+id:60b6bfed812ad1d77cfece7c2a8c6abf a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1942-09-11"^^xsd:date ;
+    schema:deathDate "2002-10-06"^^xsd:date ;
+    schema:name "Vliet, Eddy van" ;
+    schema:sameAs nta:p068678886,
+        wd:Q2190644 .
+
+id:61518c526afc56ec761e6eabcb4d4123 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Engel, Arus" .
+
+id:627ab4ae5e74f158e46e8e9b80d1f337 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1983-01-01"^^xsd:date ;
+    schema:name "Fokkema, Douwe" ;
+    schema:sameAs nta:p24143064X,
+        wd:Q18343114 .
+
+id:644da59ecd610b74bb08e533316bb6d1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1958-01-01"^^xsd:date ;
+    schema:name "Lieshout, Peter van" ;
+    schema:sameAs nta:p06845158X,
+        wd:Q2007463 .
+
+id:663ec87dcd655a6ac7bf0b77a584efbe a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Weide - van der Vliet, Geke van der" .
+
+id:66526f6b67a32c095ba8b3136e669657 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-11-24"^^xsd:date ;
+    schema:deathDate "2019-12-19"^^xsd:date ;
+    schema:name "Deelder, Jules" ;
+    schema:sameAs nta:p068566123,
+        wd:Q2675791 .
+
+id:66e2eb66d5b88f51c28e069c9a036a16 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Minke" .
+
+id:687b6fad8e7205109e7e0df90c1b1511 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Roel fan Sumar" .
+
+id:6940856b1a605e75ca5fca490c8af531 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boer, Auck de" ;
+    schema:sameAs nta:p100239307 .
+
+id:695b2481da8cf27ee546be82bcad3825 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1921-10-20"^^xsd:date ;
+    schema:deathDate "2001-12-19"^^xsd:date ;
+    schema:name "Warren, Hans" ;
+    schema:sameAs nta:p068395736,
+        wd:Q1971369 .
+
+id:6a15d62779e49e29a224abd5f4d03eab a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1952-07-19"^^xsd:date ;
+    schema:name "Liemburg, Johanneke" ;
+    schema:sameAs nta:p068638892,
+        wd:Q2027501 .
+
+id:6a29690948e3e74e0d05e441f7a42fda a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Smink, Jac. Q." .
+
+id:6a87c313540569a2b92d4d7f981368c2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bastiaans, Giny" ;
+    schema:sameAs nta:p20428080X .
+
+id:6ab665a392cbc7470ad3fe2626f44ffe a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1912-11-25"^^xsd:date ;
+    schema:deathDate "1996-01-01"^^xsd:date ;
+    schema:name "Jong, Johannes Doedes de" ;
+    schema:sameAs nta:p096522984,
+        wd:Q13136458 .
+
+id:6ae32eca60712d2490504257d7542143 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-12-24"^^xsd:date ;
+    schema:name "Berge, H.C. ten" ;
+    schema:sameAs nta:p068394349,
+        wd:Q5628129 .
+
+id:6b13b40d132d0c11c871bdc67684fedb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Joris, Roland" .
+
+id:6bd2275350cdaf149014954a71d43565 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-02-14"^^xsd:date ;
+    schema:name "Spoelstra, Oene" ;
+    schema:sameAs nta:p068337086,
+        wd:Q13137310 .
+
+id:6cbbf8fa3d8315614846d93fe505e484 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1918-06-28"^^xsd:date ;
+    schema:deathDate "1996-06-09"^^xsd:date ;
+    schema:name "Schierbeek, Bert" ;
+    schema:sameAs nta:p068014341,
+        wd:Q2434433 .
+
+id:6cd3046680e8e0861d5501bab1309954 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kooger, Hans" ;
+    schema:sameAs nta:p068646585 .
+
+id:7145705a3dd80d0ee5cb5f189183e448 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1947-07-11"^^xsd:date ;
+    schema:name "Boersma, Piter" ;
+    schema:sameAs nta:p070506728,
+        wd:Q13405897 .
+
+id:71d43e2a310135fbf84e7ffa3fadbeee a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Slofstra, Jan" ;
+    schema:sameAs nta:p070741573 .
+
+id:7203d9525460fd23a4d4f22a026f60ca a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-07-04"^^xsd:date ;
+    schema:name "Meer, Hindrik van der" ;
+    schema:sameAs nta:p071629378,
+        wd:Q18093301 .
+
+id:733d809b3013469da5c6e565174d7733 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1951-01-01"^^xsd:date ;
+    schema:name "Werf, Sytse van der" ;
+    schema:sameAs nta:p277370159,
+        wd:Q13138221 .
+
+id:735028ad0cbe37baa24ba2ac407d05f2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kuiper, Leen" ;
+    schema:sameAs nta:p074138162 .
+
+id:748eb1867593218a0d620246128d2920 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kooistra, R." ;
+    schema:sameAs nta:p069210667 .
+
+id:759ea7c4d48aa21f5c617bd3f41c34fd a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Buriks, Elisabeth" .
+
+id:763ad10ca18c760ff5d86ddb6c778931 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Pytters, Willem J." .
+
+id:76a942fe524a499df93e449b0a881a15 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Banen, Jan" ;
+    schema:sameAs nta:p070264988 .
+
+id:77c71d18575e84975f8b456ef5b3131e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Leij, Gerd de" .
+
+id:79fe27fc391c27b4da3978d29a5f285a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Walstra, Josum" ;
+    schema:sameAs nta:p091462525,
+        wd:Q96949627 .
+
+id:7a312ddf61fd4a551c4be580b1e2f5d6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Aardema - Raukema, G." .
+
+id:7a87aa33c16fd1493a897ef1be782487 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1906-02-08"^^xsd:date ;
+    schema:deathDate "1985-07-27"^^xsd:date ;
+    schema:name "Spanninga, Sjoerd" ;
+    schema:sameAs wd:Q18093505 .
+
+id:7c3b2cff8784b317d16641f43f9fded1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Rosien, Jurrie" .
+
+id:7c6b433223c9ce266039f66872ac9aa0 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Beer, J.G. de" ;
+    schema:sameAs nta:p069937826 .
+
+id:7d516e2e5afabc96d6352e6e08f081d2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-09-17"^^xsd:date ;
+    schema:deathDate "2015-03-09"^^xsd:date ;
+    schema:name "Balkt, H.H. ter" ;
+    schema:sameAs nta:p068404638,
+        wd:Q2324712 .
+
+id:7df3edd6f1895f10cf0825151e8d721e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Tsjitske" .
+
+id:7e7ee2fabb4549c689f47ee33b22b255 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Borcherts, Jannie" .
+
+id:8004472ff9ed762629f2bcb7f4936b9b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-09-25"^^xsd:date ;
+    schema:name "Lasoen, Patricia" ;
+    schema:sameAs nta:p071931414,
+        wd:Q14052173 .
+
+id:800a6eb24ec2106c938c7cc59dd6657d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-04-01"^^xsd:date ;
+    schema:name "Wytsma, Baukje" ;
+    schema:sameAs nta:p068606028,
+        wd:Q13134749 .
+
+id:8052e6a6132c023867fceba9478f2dde a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Gysbert Japicx" ;
+    schema:sameAs nta:p068659660,
+        wd:Q562144 .
+
+id:80df4bfc3ebcd0ce5bea6714e302b221 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dam, Leo van" .
+
+id:80edfbd9c7cbd1fe04e7e914dc80a76c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1908-06-13"^^xsd:date ;
+    schema:deathDate "1982-09-24"^^xsd:date ;
+    schema:name "Akkerman, Paulus" ;
+    schema:sameAs nta:p068942516,
+        wd:Q13137416 .
+
+id:817b6561924e859127afa4cb1913f36b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1935-08-12"^^xsd:date ;
+    schema:deathDate "2007-12-27"^^xsd:date ;
+    schema:name "Piebenga, Tjitte" ;
+    schema:sameAs nta:p068574827,
+        wd:Q13138365 .
+
+id:8194590ae2619b256ed507d15d4a55c8 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Smit, Afke Nel" .
+
+id:83a169db8b1b3bc32406888be68fa013 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Vries, Jan de" .
+
+id:83ed32f67e55daee0a302172710a6d53 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1943-01-01"^^xsd:date ;
+    schema:name "Goswin, Rob" ;
+    schema:sameAs nta:p068006799,
+        wd:Q7340159 .
+
+id:861f44d40fe45332a289600ece01bcfa a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boccarossa" ;
+    schema:sameAs nta:p07031778X .
+
+id:87464e858475b9ab9a3f20d22cd4e062 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Clavin, Hans" ;
+    schema:sameAs nta:p069915253,
+        wd:Q106693229 .
+
+id:878fdda87c19ad3564b9e6053b61fba9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kruiderink, Rienk" ;
+    schema:sameAs nta:p113454570 .
+
+id:87b168197eda328e6926feca68c29921 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Rinsma, Gerard" ;
+    schema:sameAs nta:p384111246 .
+
+id:87e30dd581af58e701b5f66e395a7f14 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1957-07-09"^^xsd:date ;
+    schema:name "Meer, Jurjen van der" ;
+    schema:sameAs nta:p074475916,
+        wd:Q13136523 .
+
+id:87e43397c659d472db018a85dbc00c69 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1951-12-30"^^xsd:date ;
+    schema:name "Vliet, Goaitsen van der" ;
+    schema:sameAs nta:p067586198,
+        wd:Q13390005 .
+
+id:87efaa361e83b427e28b550c09662413 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Vos, Harm de" ;
+    schema:sameAs nta:p06877690X .
+
+id:87fab6f85239ea8cda9e964b9fc1aeef a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Vos, Cora de" ;
+    schema:sameAs nta:p068863985 .
+
+id:889723ba2da82342ecc474687adb118c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1953-03-05"^^xsd:date ;
+    schema:name "Dam, Eppie" ;
+    schema:sameAs nta:p072801492,
+        wd:Q13135472 .
+
+id:895b0678443291e41a8ab5131e3c9693 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Breeuwsma, Foekje" .
+
+id:8b2de7426025702c79791710a8f1af9c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Klopstra, Peter H." .
+
+id:8df67ca2df9bc66f953957505e7a5e94 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Joseph, Robert en Post, Jan" .
+
+id:91e98b9bdbc867fcdccb2b166eb62b89 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wynsma, Ingele" .
+
+id:95b68044ab7924175112b29e9a042046 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hettinga, Tsjêbbe en Binne Lútsen Boarnstra" .
+
+id:96580918f55e290327efd1c3b45bf0d9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-01-01"^^xsd:date ;
+    schema:name "Bethlehem, Tine" ;
+    schema:sameAs nta:p074173251,
+        wd:Q13138337 .
+
+id:9680cac7936728e5aadd903475cf71a7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Duintjer, Geert" ;
+    schema:sameAs nta:p400338718 .
+
+id:9780959e986e0a5d274483d92eb3e79c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boarnstra, Yke Reinder" .
+
+id:97e33ceee8f0b3508ef72fe85ad6b721 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Nijmeijer, Peter" ;
+    schema:sameAs nta:p068020228,
+        wd:Q52897839 .
+
+id:97f6d05d6d463e53405c239d222e8212 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ozinga, H.A.R." .
+
+id:993e84ab9d9971e0704bb9968f00202a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-01-01"^^xsd:date ;
+    schema:name "Boorsma, Pier" ;
+    schema:sameAs nta:p072322985,
+        wd:Q13405882 .
+
+id:9ab88fd6441834522ac11ec0b1c01738 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1936-11-06"^^xsd:date ;
+    schema:deathDate "2021-08-12"^^xsd:date ;
+    schema:name "Schippers, K." ;
+    schema:sameAs nta:p068239165,
+        wd:Q5171416 .
+
+id:9bcee0ec439203e02cd26e0d92b8acdd a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Postma, D." .
+
+id:9de696b2b852d60ced44cc1f8196d2a5 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-08-30"^^xsd:date ;
+    schema:name "Reen, Ton van" ;
+    schema:sameAs nta:p069896739,
+        wd:Q2326102 .
+
+id:a03db65698fb087529d331859716b5fc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ginkel, Joop van" ;
+    schema:sameAs nta:p067864503 .
+
+id:a1a4b98d536b42bba7c22fe41ff790c1 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bendsen, Ben de" .
+
+id:a2a751a3ff039529cf86e346f1ca2ba4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1933-11-01"^^xsd:date ;
+    schema:name "Oosterhuis, Huub" ;
+    schema:sameAs nta:p068801874,
+        wd:Q1639368 .
+
+id:a2c565623d117effa5652add06b3c520 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jouk" .
+
+id:a43299c94c1c9397a29726ea0d44eaa9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Poelman, Ronald" ;
+    schema:sameAs nta:p37164559X .
+
+id:a44dfe82deb7d7614db3299567615cc7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-01-01"^^xsd:date ;
+    schema:name "Gildemacher, Karel Ferdinand" ;
+    schema:sameAs nta:p068692528,
+        wd:Q13136552 .
+
+id:a53a030df85c403efe35a089679b6378 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1943-07-28"^^xsd:date ;
+    schema:deathDate "2019-06-23"^^xsd:date ;
+    schema:name "Veer, Akky van der" ;
+    schema:sameAs nta:p070425736,
+        wd:Q2872968 .
+
+id:a5f90c192c50c9654d3627e6974ba30a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Trynke" .
+
+id:a772f7dc81c37e474f3574ed654dfcef a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Burg, Sjirk van den" .
+
+id:a78c4f068544e9b938ef61f32432d3eb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1904-10-23"^^xsd:date ;
+    schema:deathDate "1970-09-25"^^xsd:date ;
+    schema:name "Faber, Hein" ;
+    schema:sameAs nta:p072271620,
+        wd:Q13136062 .
+
+id:a90860c7d09f1b6af9e3d63815b40b9a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-12-18"^^xsd:date ;
+    schema:name "Kal, Jan" ;
+    schema:sameAs nta:p074402420,
+        wd:Q2159141 .
+
+id:a9ca728aa0c1ec3424424cddd594b73d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Krikke, Sibbele" ;
+    schema:sameAs nta:p068811187 .
+
+id:aa3d940b2c5030ef121d5bf586121815 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1935-07-09"^^xsd:date ;
+    schema:name "Roggeman, Willem M." ;
+    schema:sameAs nta:p068477821,
+        wd:Q2430691 .
+
+id:ab3f1a841bb6b6a9ef479b7993ed08d6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1936-05-10"^^xsd:date ;
+    schema:deathDate "2021-02-20"^^xsd:date ;
+    schema:name "Falkena, Roel" ;
+    schema:sameAs nta:p069812330,
+        wd:Q18093001 .
+
+id:abb2e8532fdadd9b3e810afc00610724 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Harteveld, Mevrouw" .
+
+id:ad6ba218914ccba0f5e2bf4e64b98213 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1905-02-27"^^xsd:date ;
+    schema:deathDate "1993-08-17"^^xsd:date ;
+    schema:name "Polstra, Thys" ;
+    schema:sameAs wd:Q13138312 .
+
+id:ae0f175f6f0874c30c9b97cf972dd896 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Tysling -Terpstra, G." .
+
+id:af70300afb3808e3af9830aab5fa8f3d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1943-02-04"^^xsd:date ;
+    schema:deathDate "2013-11-01"^^xsd:date ;
+    schema:name "Ludwig, Hannah" ;
+    schema:sameAs nta:p072107391,
+        wd:Q13135982 .
+
+id:b05ad5d1be48593e3a9806c4af42d194 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-03-30"^^xsd:date ;
+    schema:deathDate "2012-07-05"^^xsd:date ;
+    schema:name "Komrij, Gerrit" ;
+    schema:sameAs nta:p068944446,
+        wd:Q202489 .
+
+id:b0ad71e3ad66e48558324bc69e0cedbc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Sudema, Rixt" ;
+    schema:sameAs nta:p241896428 .
+
+id:b3c5c5464b0a0ca66197e52a017357d7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-12-17"^^xsd:date ;
+    schema:deathDate "1990-02-25"^^xsd:date ;
+    schema:name "Krol, Sybe" ;
+    schema:sameAs nta:p072691042,
+        wd:Q14422436 .
+
+id:b4347437b997d1906526d8cc9c8ed7d5 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jonker - Veenstra, Margje" .
+
+id:b51b6c99978d17cf4f8ae4c9bc4c48de a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1980-11-01"^^xsd:date ;
+    schema:name "Wiersma, Lammert" ;
+    schema:sameAs wd:Q1872478 .
+
+id:b51ed3f1aa7078464f75d843015dc297 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1936-09-17"^^xsd:date ;
+    schema:deathDate "2020-05-12"^^xsd:date ;
+    schema:name "Vreede, Mischa de" ;
+    schema:sameAs nta:p070257574,
+        wd:Q2753658 .
+
+id:b5309aa883d5d1a1337a7548ed2d1d6a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1937-01-14"^^xsd:date ;
+    schema:deathDate "2012-10-29"^^xsd:date ;
+    schema:name "Bernlef, J" ;
+    schema:sameAs nta:p068285817,
+        wd:Q920 .
+
+id:b5af66a347e55fe43f040a753af02013 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hoewijk, Michael van" .
+
+id:b71d3218d74ca6f3ac8edcfc7134d952 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kruyswijk, Richard" .
+
+id:b7c0bcc81ff2d17d0b47e11b0515d06b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1916-12-05"^^xsd:date ;
+    schema:deathDate "2011-12-25"^^xsd:date ;
+    schema:name "Terpstra, Anna" ;
+    schema:sameAs nta:p241741726,
+        wd:Q2206138 .
+
+id:b81aa2407399526d45a6fc53d1ccf21f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Brake, Alfons B. ter" .
+
+id:ba03db486b56d0f1e0dd88b21524a97f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1902-01-01"^^xsd:date ;
+    schema:deathDate "1982-12-30"^^xsd:date ;
+    schema:name "Brouwer, Gerben" ;
+    schema:sameAs nta:p068942648,
+        wd:Q13135835 .
+
+id:ba50325f793895dab046b0296d2d9eed a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Frankhuizen, Joe" .
+
+id:ba62b7cbcbbe1b00ab7db3464f1df318 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1912-08-14"^^xsd:date ;
+    schema:deathDate "2009-01-15"^^xsd:date ;
+    schema:name "Prins, Sonja" ;
+    schema:sameAs nta:p070156506,
+        wd:Q14365854 .
+
+id:bbe2ad540f51e8b3269383adeb38f2b4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wybenga, Akke" ;
+    schema:sameAs nta:p069130515 .
+
+id:bc2e2b2b3290bca9c6e37caf7578dc7b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Marseille, Wim" .
+
+id:bc4135f44f01cdaf3978b2c496bf2bca a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-05-17"^^xsd:date ;
+    schema:deathDate "2011-03-15"^^xsd:date ;
+    schema:name "Riemersma, Trinus" ;
+    schema:sameAs nta:p068250371,
+        wd:Q2601231 .
+
+id:bcb1aadfaf517aeac9e230cb927f82b3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1947-09-08"^^xsd:date ;
+    schema:name "Berga, Wilco" ;
+    schema:sameAs nta:p074674676,
+        wd:Q13138633 .
+
+id:bcc01d28ade1f6e405c5e65f83703020 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1918-08-07"^^xsd:date ;
+    schema:deathDate "1985-11-24"^^xsd:date ;
+    schema:name "Buddingh', C." ;
+    schema:sameAs nta:p068364075,
+        wd:Q2232349 .
+
+id:bce477b67e070f9d1feeb764cefda9fc a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Schilperoord, Peter" ;
+    schema:sameAs nta:p071547282 .
+
+id:be0a04ab20aea0116f06de6cd2777a9e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-06-01"^^xsd:date ;
+    schema:name "Berg, Arie van den" ;
+    schema:sameAs nta:p07033448X,
+        wd:Q2312373 .
+
+id:be6fd1c7e189dc2579ff39043ed2b4b9 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Verbeek, Folkert" ;
+    schema:sameAs nta:p121957128 .
+
+id:be9f7467dbc26402adcb0f4877674ff2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Veeman, Wybren" .
+
+id:bf905ca3498ac854403fb48ddf4b7b7d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1923-08-09"^^xsd:date ;
+    schema:deathDate "2014-09-04"^^xsd:date ;
+    schema:name "Kouwenaar, Gerrit" ;
+    schema:sameAs nta:p068390394,
+        wd:Q2045342 .
+
+id:c0bff88bd1b895cb20544fac479fa465 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1966-02-18"^^xsd:date ;
+    schema:name "Anema, Anne" ;
+    schema:sameAs nta:p068921217,
+        wd:Q2195210 .
+
+id:c0e230736db8f7e0f94bcaf847d88c2c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1902-12-20"^^xsd:date ;
+    schema:deathDate "1966-10-14"^^xsd:date ;
+    schema:name "Bergveld, Hendrik Johannes" ;
+    schema:sameAs nta:p071111123,
+        wd:Q15729894 .
+
+id:c144a3a18104ccbff701d86a7ae54971 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1919-12-29"^^xsd:date ;
+    schema:deathDate "2006-01-26"^^xsd:date ;
+    schema:name "Terpstra, Piter" ;
+    schema:sameAs nta:p068776519,
+        wd:Q2044213 .
+
+id:c187e40d5df48a28d45f1bb065b5ba7e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boer, Tjitske de" ;
+    schema:sameAs nta:p314665056 .
+
+id:c1baafa058b9116aacf1da3360cdd83d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "IJzer, Meta van" ;
+    schema:sameAs nta:p067967094 .
+
+id:c27c42e677580042d51980b0edb974a5 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1945-06-16"^^xsd:date ;
+    schema:deathDate "1992-01-01"^^xsd:date ;
+    schema:name "Gelderblom, Arie" ;
+    schema:sameAs nta:p07107404X,
+        wd:Q108346146 .
+
+id:c321f53eac5cd0ab6355008ee1c03640 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bergen, Johan van" ;
+    schema:sameAs nta:p071225102 .
+
+id:c3e1e9bc0ac796b67abe2d25c69f1e17 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Boer, Eize de" ;
+    schema:sameAs nta:p074193341 .
+
+id:c3e6e6e0bf47d1d3a19a7e69acb7cfac a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1955-03-20"^^xsd:date ;
+    schema:name "Beckers, Wim" ;
+    schema:sameAs nta:p071580069,
+        wd:Q2238621 .
+
+id:c4213fa46f619a21743ab071ee21b200 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hermus, Anton" ;
+    schema:sameAs nta:p068886004 .
+
+id:c50adbd55bf354abeece8395df352353 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1953-05-18"^^xsd:date ;
+    schema:name "Poortstra, Margryt" ;
+    schema:sameAs nta:p073027316,
+        wd:Q13137000 .
+
+id:c661d4ca29bc04edbc74999d31795931 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1914-01-05"^^xsd:date ;
+    schema:name "Dykstra, Waling" ;
+    schema:sameAs nta:p070344256,
+        wd:Q739255 .
+
+id:c67a8982f7eebfe2a22a65cff28cab26 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Hansen, Martin" .
+
+id:c75c98038e5c7826f5b0707debdd2dc2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Smits, Frank" ;
+    schema:sameAs nta:p074752987 .
+
+id:c82679ed3c10862c8f3c22d4385b9c07 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1945-02-21"^^xsd:date ;
+    schema:deathDate "2019-08-12"^^xsd:date ;
+    schema:name "Deel, Tom van" ;
+    schema:sameAs nta:p068243588,
+        wd:Q2115161 .
+
+id:c8e33e7b6566bbc12de7ba1f993807d4 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-11-11"^^xsd:date ;
+    schema:name "Bylsma, Meindert" ;
+    schema:sameAs nta:p069157448,
+        wd:Q1891218 .
+
+id:c99c224231a5ddaafdff498cad49d3ef a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Biezen, Jan" ;
+    schema:sameAs nta:p068412266 .
+
+id:c9ade88e3c0fb787afd2c0f9ad3faa64 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1908-02-02"^^xsd:date ;
+    schema:deathDate "1990-08-25"^^xsd:date ;
+    schema:name "Hornstra, Lieuwe" ;
+    schema:sameAs nta:p071067175,
+        wd:Q18093134 .
+
+id:c9be43e520fd760b0a392dbe1abcdbb6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Rixt" .
+
+id:c9e7e907f065e688007c41acb61dbc04 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-05-12"^^xsd:date ;
+    schema:deathDate "1980-11-12"^^xsd:date ;
+    schema:name "Amalrik, Andrej" ;
+    schema:sameAs nta:p069043949,
+        wd:Q381390 .
+
+id:cab52463ed209273aa210bff79affe1c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1921-04-02"^^xsd:date ;
+    schema:deathDate "2010-11-04"^^xsd:date ;
+    schema:name "Mulder, Tiny" ;
+    schema:sameAs nta:p068614675,
+        wd:Q2241444 .
+
+id:cc757d5b50ded88c248d777bb08b85fe a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Veninga, Jacob" .
+
+id:cc825d80271a71e599a08370d6ec334b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-03-17"^^xsd:date ;
+    schema:deathDate "2000-06-12"^^xsd:date ;
+    schema:name "Holwerda, Frans" ;
+    schema:sameAs nta:p106668277,
+        wd:Q2118856 .
+
+id:ccd9e073f0e80eee01a4ac5b83f5b1fe a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1924-06-19"^^xsd:date ;
+    schema:deathDate "2015-07-19"^^xsd:date ;
+    schema:name "Polet, Sybren" ;
+    schema:sameAs nta:p069219907,
+        wd:Q2053872 .
+
+id:cd25cc7c94eb33793b03574a295b7df0 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Holzhaus, Hanneke" ;
+    schema:sameAs nta:p085506052 .
+
+id:cd61ce14c78b90d927c4e9f65db44c68 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-02-08"^^xsd:date ;
+    schema:name "Heite, Remco" ;
+    schema:sameAs nta:p067734790,
+        wd:Q13137599 .
+
+id:cd7de694dafc6f4776236927e5a4c3d7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Stienstra, Andrys" ;
+    schema:sameAs nta:p073176664 .
+
+id:cdbe8ea292cc16f4936ddbae4dedd316 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dykstra, Jacobus" .
+
+id:cdf6ac8a78c1598780f5ea2df5fe79f7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Huber, Diet" ;
+    schema:sameAs nta:p069651078 .
+
+id:ceb84885c817cd79bba0d70923991b3c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1905-07-21"^^xsd:date ;
+    schema:deathDate "1980-05-16"^^xsd:date ;
+    schema:name "Grilk, Pita" ;
+    schema:sameAs nta:p071864717,
+        wd:Q2233159 .
+
+id:cf393a46126324b40fe9de4ccf005feb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1907-04-26"^^xsd:date ;
+    schema:deathDate "2005-01-21"^^xsd:date ;
+    schema:name "Vries, Theun de" ;
+    schema:sameAs nta:p068302770,
+        wd:Q2143934 .
+
+id:cf4e1de49b05ab86ada6fac7730b3a60 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Overtjonger, Jan van" ;
+    schema:sameAs nta:p069629900 .
+
+id:d01fc553200f70f572467499b9c977ec a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1934-08-04"^^xsd:date ;
+    schema:deathDate "2012-07-11"^^xsd:date ;
+    schema:name "Kopland, Rutger" ;
+    schema:sameAs nta:p068617887,
+        wd:Q2783414 .
+
+id:d05b9945489144b8378b27ea3b455422 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Donk, Albert" ;
+    schema:sameAs nta:p069214298 .
+
+id:d20c57ea3322276b9db05e629ec95a1f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1912-06-05"^^xsd:date ;
+    schema:deathDate "2002-06-07"^^xsd:date ;
+    schema:name "Morriën, Adriaan" ;
+    schema:sameAs wd:Q367612 .
+
+id:d28d33fbf3a6ffc8e5d7603062912378 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1931-08-20"^^xsd:date ;
+    schema:deathDate "2004-03-31"^^xsd:date ;
+    schema:name "Hellinga, Anne" ;
+    schema:sameAs nta:p074961497,
+        wd:Q13134620 .
+
+id:d41d8cd98f00b204e9800998ecf8427e a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1948-01-01"^^xsd:date ;
+    schema:deathDate "1989-02-08"^^xsd:date,
+        "1991-01-01"^^xsd:date .
+
+id:d4541eb75e74c006c68a32368202d50c a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Peto, Bert" ;
+    schema:sameAs nta:p068361610 .
+
+id:d4c10d05f931a894026d6629a2858f80 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1921-02-20"^^xsd:date ;
+    schema:deathDate "2003-07-20"^^xsd:date ;
+    schema:name "Boer, Hessel de" ;
+    schema:sameAs nta:p106962701,
+        wd:Q29552286 .
+
+id:d4f2dab6161dba2870802e050d91a091 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Swart, George" .
+
+id:d525ceaa2df052a51361dc4be3ea1c4d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Jongsma, Cees" ;
+    schema:sameAs nta:p108925420 .
+
+id:d52fe82e64534552999eb7a643ee53b7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1914-07-29"^^xsd:date ;
+    schema:deathDate "1991-07-10"^^xsd:date ;
+    schema:name "Jaarsma, Dam" ;
+    schema:sameAs nta:p073405175,
+        wd:Q2691633 .
+
+id:d5528c0fe88467da5e87a3e956317fd2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "IJsen, Ruud van" .
+
+id:d5a54627339e9707c54784b5f2b8f844 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wit, Klaas de" ;
+    schema:sameAs nta:p419328513 .
+
+id:d5d9005d8ee5db41172129031b589088 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Visser - Swart, Jeltsje de" .
+
+id:d63890a86f28f35da4f4a0d1b539ab8a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Wijnkooper, Naomi" .
+
+id:d6ee714cbe9588a8fa0ebe247cf97f45 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1903-06-13"^^xsd:date ;
+    schema:deathDate "2001-12-14"^^xsd:date ;
+    schema:name "Augustin, Elisabeth" ;
+    schema:sameAs nta:p070157391,
+        wd:Q100901 .
+
+id:d6fc2e85152f2d61f430d2d6a8a22523 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1958-03-19"^^xsd:date ;
+    schema:name "Sterk, Steven" ;
+    schema:sameAs nta:p070749329,
+        wd:Q13138040 .
+
+id:d7dab78d137770c494c91d52d0abd73b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1927-05-22"^^xsd:date ;
+    schema:deathDate "2004-04-01"^^xsd:date ;
+    schema:name "Winkler, Kees" ;
+    schema:sameAs nta:p068367856,
+        wd:Q2095949 .
+
+id:d857dba20ff9bc49157bb26803b86a4f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1972-01-01"^^xsd:date ;
+    schema:name "Wigman, A.B." ;
+    schema:sameAs nta:p073503789,
+        wd:Q18562279 .
+
+id:d868080842c0a2e958d073796aac6756 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Willems, Hans" .
+
+id:d8cf3e7984aab557164e08c2b0e6e23f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1949-01-15"^^xsd:date ;
+    schema:deathDate "2013-03-07"^^xsd:date ;
+    schema:name "Hettinga, Tsjêbbe" ;
+    schema:sameAs nta:p068768257,
+        wd:Q6765769 .
+
+id:d9f2adab3208c58c6bb667684bddf3da a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1908-09-18"^^xsd:date ;
+    schema:deathDate "1974-02-26"^^xsd:date ;
+    schema:name "Stuit, Sipke" ;
+    schema:sameAs nta:p238350479,
+        wd:Q12355181 .
+
+id:da349f6fd289e8271043bf1bf68ce490 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Mak, Maurits" .
+
+id:dbdaa9c2e708858fc66f404717ff20bb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Palstra, Sjoerd" ;
+    schema:sameAs nta:p068566999 .
+
+id:dbf9a38c94f6b207932d37cdf98c3fe3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Griensven, Adrie van" ;
+    schema:sameAs nta:p07111842X .
+
+id:dd234eff56712694e15f1940e263903a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Groen, Hannie" ;
+    schema:sameAs nta:p07321471X .
+
+id:de0b08b57be81cc380e57612bdffda8d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-09-14"^^xsd:date ;
+    schema:name "Holtrop, Benny" ;
+    schema:sameAs nta:p074033808,
+        wd:Q16295500 .
+
+id:de12facf65323716d5e10361538b1dcb a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Braudigam, Maria" .
+
+id:dfea7010ef85220c908300bd2762d9b3 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1938-02-19"^^xsd:date ;
+    schema:name "Geest, Berber van der" ;
+    schema:sameAs nta:p075020424,
+        wd:Q18093049 .
+
+id:dffdb7a474b9d85151f5d859e3005f3a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Graafsma, Paula" ;
+    schema:sameAs nta:p072795085 .
+
+id:e026b95a9dc5572bf1d4cee4f1c03496 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kroes, Tine" ;
+    schema:sameAs nta:p241586623 .
+
+id:e029b5f7a8088b20061e9cbcf6c4ff8f a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Luymen, June" .
+
+id:e038a7dcbf17b622593345869e0c8e5b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dubbelhuis-Kooistra, R." .
+
+id:e04deab770e27adc83cd64d26d2b8281 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Flipse, Robert Paul" ;
+    schema:sameAs nta:p12971156X .
+
+id:e0f5c8af1afeb68538f004f5e84ea608 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Kuip, Frits van der" ;
+    schema:sameAs nta:p073409812 .
+
+id:e1f434ae94c64cbf564ca46c9b31ff1b a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Weely, Hans van" ;
+    schema:sameAs nta:p072427957 .
+
+id:e93136aed2bd7f44d31a18ed13e7c57d a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Visser, Jemke" ;
+    schema:sameAs nta:p085528633 .
+
+id:e996d475a692f47f7f8e4d1a5aa6cf31 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1940-05-20"^^xsd:date ;
+    schema:name "Adèr, Herman" ;
+    schema:sameAs nta:p071424903,
+        wd:Q16001797 .
+
+id:eaaa52987ad17b06d303591023b6cd35 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Huisman, Ytsje" .
+
+id:ecf4472d52de4b20556c9c40a0cfa025 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:deathDate "1938-01-01"^^xsd:date ;
+    schema:name "Kloosterman, Simke" ;
+    schema:sameAs nta:p068770812,
+        wd:Q18093241 .
+
+id:ef19c19cf8605c3e0059e6eea50fe1af a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Dusselaar, Anneke" .
+
+id:ef64fc80549ccdfb043bc9d892aba350 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Sikkema, Pyt Jan" ;
+    schema:sameAs nta:p091107768 .
+
+id:efb16fdbe85c1f4cf59840be6a7c0ef2 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Piebenga, Sikke" ;
+    schema:sameAs nta:p244030782 .
+
+id:efe11fea26ec85b47d77bb305fb98af7 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1947-06-06"^^xsd:date ;
+    schema:name "Huisman, Bennie" ;
+    schema:sameAs nta:p072314826,
+        wd:Q18093142 .
+
+id:f0447492c6890125a5bb3c741af39b64 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Bie, J. de" .
+
+id:f1b26dd2ef215b3cd251ef863659c6ac a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1932-01-24"^^xsd:date ;
+    schema:deathDate "2017-09-06"^^xsd:date ;
+    schema:name "Gratama, Rients" ;
+    schema:sameAs nta:p070276358,
+        wd:Q2292828 .
+
+id:f1c8cebd37e64d91188fc55d3f1a72af a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Meulen, Durk van der" .
+
+id:f247dceeb8f6da66784d6fa9aabae396 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Schuur, Peter C." .
+
+id:f2fed96e7bf61b2bd5319ff34955728a a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1916-03-24"^^xsd:date ;
+    schema:deathDate "1991-04-30"^^xsd:date ;
+    schema:name "Smit, Jo" ;
+    schema:sameAs nta:p071774904,
+        wd:Q13136418 .
+
+id:f3c6c691650cc86ebeb93918ba0e57bd a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1929-01-01"^^xsd:date ;
+    schema:name "Brattinga, Teije" ;
+    schema:sameAs nta:p068467885,
+        wd:Q13138297 .
+
+id:f4de668e360576911d5318f599abbbe5 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Rypma, Hiske" .
+
+id:f59c60b083ffb67da2ffc8bef57fb9b0 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1945-07-23"^^xsd:date ;
+    schema:name "Koenegracht, Frank" ;
+    schema:sameAs nta:p070221049,
+        wd:Q2430283 .
+
+id:f6ae49205ad0823af14162c4be7135e6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Waskowski, Rikus" .
+
+id:f6b97907266b5929696759e9d1a12344 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Eijck, Sijbrand van" .
+
+id:f6bdfdfd3ff1d1fe05aef248c4784dd6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1941-05-09"^^xsd:date ;
+    schema:deathDate "1998-07-20"^^xsd:date ;
+    schema:name "Annema-Noordenbos, Froukje" ;
+    schema:sameAs nta:p06828084X,
+        wd:Q13135698 .
+
+id:f6e8ca3a4db35d5840e2e83d74fbdc07 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1944-07-21"^^xsd:date ;
+    schema:name "Min, Neeltje Maria" ;
+    schema:sameAs nta:p070223971,
+        wd:Q2180070 .
+
+id:f772cef0aa9e0fc8bd1614376d4dd755 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1946-01-06"^^xsd:date ;
+    schema:name "Veenstra, Johan" ;
+    schema:sameAs nta:p068528507,
+        wd:Q487812 .
+
+id:f8cd69bd44232f555ff4445ebd1138e6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1924-11-05"^^xsd:date ;
+    schema:deathDate "1986-03-09"^^xsd:date ;
+    schema:name "Sybesma, Sybe" ;
+    schema:sameAs nta:p068617844,
+        wd:Q25616658 .
+
+id:fa6f3fea862d67313863041178986d91 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1927-01-01"^^xsd:date ;
+    schema:deathDate "2018-01-01"^^xsd:date ;
+    schema:name "Jellema, Rod" ;
+    schema:sameAs nta:p071794107,
+        wd:Q7356244 .
+
+id:fae1574fc27fd0d88b9d9c6e3ccd1993 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1900-03-03"^^xsd:date ;
+    schema:deathDate "1981-07-22"^^xsd:date ;
+    schema:name "Jousma, Anne" ;
+    schema:sameAs nta:p068196849,
+        wd:Q18093211 .
+
+id:fc58857b34c3071b4dc51cbc22f07a24 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Ley, Lourens J. van der" .
+
+id:fe29e82e8318b2df6471fdb27527bbd6 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1940-04-28"^^xsd:date ;
+    schema:name "Hazeu, Wim" ;
+    schema:sameAs nta:p069279950,
+        wd:Q1866693 .
+
+id:fe38be66dfb7fd97aea82b8c345e0d30 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Oostra, H.A.R." .
+
+id:fe8baf7f077c5bc14435ae04b8d69d75 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1924-07-02"^^xsd:date ;
+    schema:deathDate "2002-07-04"^^xsd:date ;
+    schema:name "Dam, Freark" ;
+    schema:sameAs nta:p068640528,
+        wd:Q18092912 .
+
+id:ff33be058bf832122865225b90a8eb87 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "Post, Jan" .
+
+id:ff8b735e9e33242a186f760ce75d2c47 a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1964-10-21"^^xsd:date ;
+    schema:name "Vries, Aukje de" ;
+    schema:sameAs wd:Q1532558 .
+
+id:ffeb3b4b63659cdc30ab6411977fd8ce a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:birthDate "1956-07-05"^^xsd:date ;
+    schema:name "Oosterhaven, Beart" ;
+    schema:sameAs nta:p068622201,
+        wd:Q18093347 .
+
+nta:p067474500 a schema:Person ;
+    schema:name "Holkema, A." .
+
+nta:p067586198 a schema:Person ;
+    schema:name "Vliet, Goaitsen van der (1951-)" .
+
+nta:p067734790 a schema:Person ;
+    schema:name "Heite, Remco (1946-)" .
+
+nta:p06781770X a schema:Person ;
+    schema:name "Hanenburg, Jacoba J.H.M." .
+
+nta:p067864503 a schema:Person ;
+    schema:name "Ginkel, Joop van (luitenant-generaal)" .
+
+nta:p067967094 a schema:Person ;
+    schema:name "IJzer, Meta van (1934-2014)" .
+
+nta:p068002904 a schema:Person ;
+    schema:name "Peanstra, Tsjits (1924-2014)" .
+
+nta:p068006799 a schema:Person ;
+    schema:name "Goswin, Rob" .
+
+nta:p068014341 a schema:Person ;
+    schema:name "Schierbeek, Bert (1918-1996)" .
+
+nta:p068020228 a schema:Person ;
+    schema:name "Nijmeijer, Peter (1947-2016)" .
+
+nta:p068176236 a schema:Person ;
+    schema:name "Kneepkens, Manuel (1942-)" .
+
+nta:p068196849 a schema:Person ;
+    schema:name "Jousma, Anne (1900-1981)" .
+
+nta:p068239165 a schema:Person ;
+    schema:name "Schippers, K." .
+
+nta:p068243588 a schema:Person ;
+    schema:name "Deel, T. van (1945-2019)" .
+
+nta:p068250371 a schema:Person ;
+    schema:name "Riemersma, Tr. (1938-2011)" .
+
+nta:p06828084X a schema:Person ;
+    schema:name "Annema-Noordenbos, F. (1941-1998)" .
+
+nta:p068285817 a schema:Person ;
+    schema:name "Bernlef, J." .
+
+nta:p068302770 a schema:Person ;
+    schema:name "Vries, Theun de (1907-2005)" .
+
+nta:p068337086 a schema:Person ;
+    schema:name "Spoelstra, Oene (1944-)" .
+
+nta:p068345429 a schema:Person ;
+    schema:name "Houtman, Harmen (1951-)" .
+
+nta:p068361610 a schema:Person ;
+    schema:name "Peto, Bert S.A. (1946-)" .
+
+nta:p068364075 a schema:Person ;
+    schema:name "Buddingh', Cees (1918-1985)" .
+
+nta:p068367856 a schema:Person ;
+    schema:name "Winkler, Kees (1927-2004)" .
+
+nta:p068390394 a schema:Person ;
+    schema:name "Kouwenaar, Gerrit (1923-2014)" .
+
+nta:p068394349 a schema:Person ;
+    schema:name "Berge, H.C. ten (1938-)" .
+
+nta:p068395736 a schema:Person ;
+    schema:name "Warren, Hans (1921-2001)" .
+
+nta:p068402422 a schema:Person ;
+    schema:name "Bloemhoff, Henk (1948-)" .
+
+nta:p068404638 a schema:Person ;
+    schema:name "Balkt, H.H. ter (1938-2015)" .
+
+nta:p068412266 a schema:Person ;
+    schema:name "Biezen, Jan (1942-)" .
+
+nta:p068412789 a schema:Person ;
+    schema:name "Wagenaar, Jan (1709-1773)" .
+
+nta:p068426054 a schema:Person ;
+    schema:name "Welling, Jules (1949-2016)" .
+
+nta:p06845158X a schema:Person ;
+    schema:name "Lieshout, Peter van (1946-)" .
+
+nta:p068465653 a schema:Person ;
+    schema:name "Kuyper, Sjoerd (1952-)" .
+
+nta:p068467885 a schema:Person ;
+    schema:name "Brattinga, T. (1929-)" .
+
+nta:p068477821 a schema:Person ;
+    schema:name "Roggeman, Willem M. (1935-)" .
+
+nta:p068501315 a schema:Person ;
+    schema:name "Kooistra, Jan (1959-)" .
+
+nta:p068528507 a schema:Person ;
+    schema:name "Veenstra, Johan (1946-)" .
+
+nta:p068531427 a schema:Person ;
+    schema:name "Leest, R.R. van der (1933-)" .
+
+nta:p068566123 a schema:Person ;
+    schema:name "Deelder, J.A. (1944-2019)" .
+
+nta:p068566999 a schema:Person ;
+    schema:name "Palstra, Sjoerd (1922-2015)" .
+
+nta:p068569483 a schema:Person ;
+    schema:name "Zanger, Jan de (1932-1991)" .
+
+nta:p068574827 a schema:Person ;
+    schema:name "Piebenga, Tjitte (1935-2007)" .
+
+nta:p068606028 a schema:Person ;
+    schema:name "Wytsma, Baukje (1946-)" .
+
+nta:p068610629 a schema:Person ;
+    schema:name "Schurer, Fedde (1898-1968)" .
+
+nta:p068611226 a schema:Person ;
+    schema:name "Brouwer, J.H. (1900-1981)" .
+
+nta:p068614675 a schema:Person ;
+    schema:name "Mulder, Tiny (1921-2010)" .
+
+nta:p068617844 a schema:Person ;
+    schema:name "Sybesma, Sybe (1924-1986)" .
+
+nta:p068617887 a schema:Person ;
+    schema:name "Kopland, Rutger" .
+
+nta:p068618522 a schema:Person ;
+    schema:name "Boomsma, Joop (1945-2018)" .
+
+nta:p068622201 a schema:Person ;
+    schema:name "Oosterhaven, Beart (1956-)" .
+
+nta:p068638892 a schema:Person ;
+    schema:name "Liemburg, Johanneke (1952-)" .
+
+nta:p06864051X a schema:Person ;
+    schema:name "Steenmeijer-Wielenga, Tineke (1946-)" .
+
+nta:p068640528 a schema:Person ;
+    schema:name "Dam, Freark (1924-2002)" .
+
+nta:p068646585 a schema:Person ;
+    schema:name "Kooger, Hans (1932-)" .
+
+nta:p068657722 a schema:Person ;
+    schema:name "Hoogstraten, Harry (1941-)" .
+
+nta:p068659660 a schema:Person ;
+    schema:name "Japicx, Gysbert (1603-1666)" .
+
+nta:p068678886 a schema:Person ;
+    schema:name "Van Vliet, Eddy (1942-2002)" .
+
+nta:p068692528 a schema:Person ;
+    schema:name "Gildemacher, Karel F. (1946-)" .
+
+nta:p068768257 a schema:Person ;
+    schema:name "Hettinga, Tsjêbbe (1949-2013)" .
+
+nta:p068770812 a schema:Person ;
+    schema:name "Kloosterman, Simke (1876-1938)" .
+
+nta:p068776519 a schema:Person ;
+    schema:name "Terpstra, Pieter (1919-2006)" .
+
+nta:p06877690X a schema:Person ;
+    schema:name "Vos, Harm de (1934-)" .
+
+nta:p068801874 a schema:Person ;
+    schema:name "Oosterhuis, Huub (1933-)" .
+
+nta:p068811187 a schema:Person ;
+    schema:name "Krikke, Sibbele (1926-1999)" .
+
+nta:p068857128 a schema:Person ;
+    schema:name "Wassenaer, Ella" .
+
+nta:p068863985 a schema:Person ;
+    schema:name "Vos, Cora de (1949-)" .
+
+nta:p068875215 a schema:Person ;
+    schema:name "Wybenga, Jan (1917-1994)" .
+
+nta:p068886004 a schema:Person ;
+    schema:name "Hermus, Anton" .
+
+nta:p068921217 a schema:Person ;
+    schema:name "Anema, A. (1872-1966)" .
+
+nta:p068942516 a schema:Person ;
+    schema:name "Akkerman, Paulus (1908-1982)" .
+
+nta:p068942648 a schema:Person ;
+    schema:name "Brouwer, G. (1902-1982)" .
+
+nta:p068944446 a schema:Person ;
+    schema:name "Komrij, Gerrit (1944-2012)" .
+
+nta:p068959893 a schema:Person ;
+    schema:name "Mok, Maurits (1907-1989)" .
+
+nta:p068960670 a schema:Person ;
+    schema:name "Brouwer, Marten Jelles (1929-2001)" .
+
+nta:p069005850 a schema:Person ;
+    schema:name "Gemmink, Inge" .
+
+nta:p069008671 a schema:Person ;
+    schema:name "Van Craen, Wilfried (1951-)" .
+
+nta:p069043949 a schema:Person ;
+    schema:name "Amalʹrik, Andrej (1938-1980) • Амальрик, Андрей (1938-1980)" .
+
+nta:p069057370 a schema:Person ;
+    schema:name "Kalmthout, Kees van (1948-1991)" .
+
+nta:p069094500 a schema:Person ;
+    schema:name "Waarsenburg, Hans van de (1943-2015)" .
+
+nta:p069130515 a schema:Person ;
+    schema:name "Wybenga, Akke (1932-1997)" .
+
+nta:p069155488 a schema:Person ;
+    schema:name "Bruinsma, Klaes (1931-2018)" .
+
+nta:p069157448 a schema:Person ;
+    schema:name "Bylsma, Meindert (1941-)" .
+
+nta:p069210667 a schema:Person ;
+    schema:name "Kooistra, R." .
+
+nta:p069214298 a schema:Person ;
+    schema:name "Donk, Albert" .
+
+nta:p069219907 a schema:Person ;
+    schema:name "Polet, Sybren" .
+
+nta:p069264074 a schema:Person ;
+    schema:name "Zijlstra, Jaap (1933-2015)" .
+
+nta:p069279950 a schema:Person ;
+    schema:name "Hazeu, Wim (1940-)" .
+
+nta:p069314004 a schema:Person ;
+    schema:name "Jonkman, Geart (1910-1970)" .
+
+nta:p069335958 a schema:Person ;
+    schema:name "Besten, Ad den (1923-2015)" .
+
+nta:p069424977 a schema:Person ;
+    schema:name "Bult, Oene (1928-2002)" .
+
+nta:p069629900 a schema:Person ;
+    schema:name "Overtjonger, Jan van" .
+
+nta:p069632715 a schema:Person ;
+    schema:name "Zwaag, Geart van der (1924-1989)" .
+
+nta:p069651078 a schema:Person ;
+    schema:name "Huber, Diet (1924-2008)" .
+
+nta:p069812330 a schema:Person ;
+    schema:name "Falkena, Roel (1936-2021)" .
+
+nta:p069896739 a schema:Person ;
+    schema:name "Reen, Ton van (1941-)" .
+
+nta:p069915253 a schema:Person ;
+    schema:name "Clavin, Hans" .
+
+nta:p070156506 a schema:Person ;
+    schema:name "Prins, Sonja (1912-2009)" .
+
+nta:p070157391 a schema:Person ;
+    schema:name "Augustin, Elisabeth (1903-2001)" .
+
+nta:p070220786 a schema:Person ;
+    schema:name "Klinkenberg, G.A. van (1900-2003)" .
+
+nta:p070221049 a schema:Person ;
+    schema:name "Koenegracht, Frank (1945-)" .
+
+nta:p070223734 a schema:Person ;
+    schema:name "Michaelis, Hanny (1922-2007)" .
+
+nta:p070223971 a schema:Person ;
+    schema:name "Min, Neeltje Maria (1944-)" .
+
+nta:p070238979 a schema:Person ;
+    schema:name "Sleutelaar, Hans (1935-2020)" .
+
+nta:p070257574 a schema:Person ;
+    schema:name "Vreede, Mischa de (1936-2020)" .
+
+nta:p070264988 a schema:Person ;
+    schema:name "Banen, Jan (1917-1998)" .
+
+nta:p070276358 a schema:Person ;
+    schema:name "Gratama, Rients (1932-2017)" .
+
+nta:p07031778X a schema:Person ;
+    schema:name "Boccarossa" .
+
+nta:p07033448X a schema:Person ;
+    schema:name "Berg, Arie van den (1948-)" .
+
+nta:p070344256 a schema:Person ;
+    schema:name "Dykstra, Waling (1821-1914)" .
+
+nta:p070392188 a schema:Person ;
+    schema:name "Bierman, Willem (1948-)" .
+
+nta:p070425736 a schema:Person ;
+    schema:name "Veer, Akky van der (1943-2019)" .
+
+nta:p070506728 a schema:Person ;
+    schema:name "Boersma, Piter (1947-)" .
+
+nta:p070631913 a schema:Person ;
+    schema:name "Berkenbosch, Karst (1950-)" .
+
+nta:p070741573 a schema:Person ;
+    schema:name "Slofstra, Jan (1910-1999)" .
+
+nta:p070749329 a schema:Person ;
+    schema:name "Sterk, Steven (1958-)" .
+
+nta:p071067175 a schema:Person ;
+    schema:name "Hornstra, L. (1908-1990)" .
+
+nta:p07107404X a schema:Person ;
+    schema:name "Gelderblom, Arie (1945-1992)" .
+
+nta:p071111123 a schema:Person ;
+    schema:name "Bergveld, H.J. (1902-1966)" .
+
+nta:p07111842X a schema:Person ;
+    schema:name "Griensven, Adrie van (1947-)" .
+
+nta:p071225102 a schema:Person ;
+    schema:name "Bergen, Johan van (1934-2000)" .
+
+nta:p071286810 a schema:Person ;
+    schema:name "Idserda, Jacques (1918-2007 ; vert. Oosteuropese talen en kinderboeken)" .
+
+nta:p071366105 a schema:Person ;
+    schema:name "Laverman, Bartle (1948-2020)" .
+
+nta:p071424903 a schema:Person ;
+    schema:name "Adèr, Herman (1940-)" .
+
+nta:p071547282 a schema:Person ;
+    schema:name "Schilperoord, Peter" .
+
+nta:p071580069 a schema:Person ;
+    schema:name "Beckers, Wim (1955-)" .
+
+nta:p071629378 a schema:Person ;
+    schema:name "Meer, Hindrik van der (1938-)" .
+
+nta:p071632182 a schema:Person ;
+    schema:name "Adams, Wilfried (1947-2008)" .
+
+nta:p07172446X a schema:Person ;
+    schema:name "Postema, Jits (1940-)" .
+
+nta:p071750215 a schema:Person ;
+    schema:name "Rutke, Fem" .
+
+nta:p071774904 a schema:Person ;
+    schema:name "Smit, Jo (1916-1991)" .
+
+nta:p071779736 a schema:Person ;
+    schema:name "Berger, Edsard (1938-2007)" .
+
+nta:p071794107 a schema:Person ;
+    schema:name "Jellema, Rod (1927-)" .
+
+nta:p071864717 a schema:Person ;
+    schema:name "Grilk, Pita (1905-1980)" .
+
+nta:p071931414 a schema:Person ;
+    schema:name "Lasoen, Patricia (1948-)" .
+
+nta:p072107391 a schema:Person ;
+    schema:name "Ludwig, Hannah (1943-2013)" .
+
+nta:p072271620 a schema:Person ;
+    schema:name "Faber, Hein (1904-1970)" .
+
+nta:p072276681 a schema:Person ;
+    schema:name "Beranová, Jana (1932-)" .
+
+nta:p072314826 a schema:Person ;
+    schema:name "Huisman, Bennie (1947-)" .
+
+nta:p072322365 a schema:Person ;
+    schema:name "Veenstra, Jaap (1959-2020)" .
+
+nta:p072322985 a schema:Person ;
+    schema:name "Boorsma, Pier (1944-)" .
+
+nta:p072427957 a schema:Person ;
+    schema:name "Weely, Hans van (1945-2019)" .
+
+nta:p072534265 a schema:Person ;
+    schema:name "Bylsma, Jan J. (1931-2021)" .
+
+nta:p072550570 a schema:Person ;
+    schema:name "Yedema, Piter (1941-)" .
+
+nta:p072611340 a schema:Person ;
+    schema:name "Steen, Peter van (1954-)" .
+
+nta:p072656719 a schema:Person ;
+    schema:name "Klinkhaemer, Peggy" .
+
+nta:p07268965X a schema:Person ;
+    schema:name "Kootstra, Douwe (1951-)" .
+
+nta:p072691042 a schema:Person ;
+    schema:name "Krol, Sybe (1946-1990)" .
+
+nta:p072795085 a schema:Person ;
+    schema:name "Graafsma, Paula" .
+
+nta:p072801492 a schema:Person ;
+    schema:name "Dam, Eppie (1953-)" .
+
+nta:p072801646 a schema:Person ;
+    schema:name "Haan, Josse de (1941-2020)" .
+
+nta:p072907304 a schema:Person ;
+    schema:name "Barbiers, Lia (1930-)" .
+
+nta:p073027316 a schema:Person ;
+    schema:name "Poortstra, Margryt (1953-)" .
+
+nta:p073086762 a schema:Person ;
+    schema:name "Albach, Hester (1953-)" .
+
+nta:p073176664 a schema:Person ;
+    schema:name "Stienstra, Andrys (1953-)" .
+
+nta:p07321471X a schema:Person ;
+    schema:name "Groen, Hannie (1938-)" .
+
+nta:p073236411 a schema:Person ;
+    schema:name "Hollander, F.G." .
+
+nta:p073405175 a schema:Person ;
+    schema:name "Jaarsma, Dam (1914-1991)" .
+
+nta:p073409812 a schema:Person ;
+    schema:name "Kuip, Frits van der (1955-)" .
+
+nta:p073424773 a schema:Person ;
+    schema:name "Bangma, Jelle (1955-)" .
+
+nta:p073503789 a schema:Person ;
+    schema:name "Wigman, A.B. (1891-1972)" .
+
+nta:p073861197 a schema:Person ;
+    schema:name "Veenstra, Tsjerk (1940-)" .
+
+nta:p073955914 a schema:Person ;
+    schema:name "Lont, Titia (1963-)" .
+
+nta:p074033808 a schema:Person ;
+    schema:name "Holtrop, Benny (1938-)" .
+
+nta:p074138162 a schema:Person ;
+    schema:name "Kuiper, L.C. (1956-)" .
+
+nta:p07416385X a schema:Person ;
+    schema:name "Hettinga, Eeltsje (1955-)" .
+
+nta:p074173251 a schema:Person ;
+    schema:name "Bethlehem, Tine (1938-)" .
+
+nta:p07417357X a schema:Person ;
+    schema:name "Verveld, Reinhard (1931-2010)" .
+
+nta:p074180975 a schema:Person ;
+    schema:name "Kaspersma, Jelle (1948-2019)" .
+
+nta:p074193341 a schema:Person ;
+    schema:name "Boer, Eize de (1951-)" .
+
+nta:p07435440X a schema:Person ;
+    schema:name "Johannsen, Albrecht (1888-1967)" .
+
+nta:p074402420 a schema:Person ;
+    schema:name "Kal, Jan (1946-)" .
+
+nta:p074475916 a schema:Person ;
+    schema:name "Meer, Jurjen van der (1957-)" .
+
+nta:p074647164 a schema:Person ;
+    schema:name "Duursma, Swaantsje (1928-2007)" .
+
+nta:p074674676 a schema:Person ;
+    schema:name "Berga, Wilco (1947-)" .
+
+nta:p074752987 a schema:Person ;
+    schema:name "Smits, Frank" .
+
+nta:p074961497 a schema:Person ;
+    schema:name "Hellinga, Anne (1931-2004)" .
+
+nta:p075020424 a schema:Person ;
+    schema:name "Geest, Berber van der (1938-)" .
+
+nta:p075152959 a schema:Person ;
+    schema:name "Walta, Meinte (1920-2002)" .
+
+nta:p085506052 a schema:Person ;
+    schema:name "Holzhaus, Hanneke" .
+
+nta:p085528633 a schema:Person ;
+    schema:name "Visser, Jemke" .
+
+nta:p091107768 a schema:Person ;
+    schema:name "Sikkema, Pyt Jan (1947-)" .
+
+nta:p091462525 a schema:Person ;
+    schema:name "Walstra, Josum (1935-)" .
+
+nta:p093084951 a schema:Person ;
+    schema:name "Hollema, Repke" .
+
+nta:p096522984 a schema:Person ;
+    schema:name "Jong, J.D. de (1912-1996)" .
+
+nta:p100102395 a schema:Person ;
+    schema:name "Bruggen, Peter van (1948-)" .
+
+nta:p100239307 a schema:Person ;
+    schema:name "Boer, Auck de (1916-1984 ; vertaler)" .
+
+nta:p100701329 a schema:Person ;
+    schema:name "Doppenberg, Jeannette (1974)" .
+
+nta:p100711731 a schema:Person ;
+    schema:name "Wiersma, Syds (1963-)" .
+
+nta:p106668277 a schema:Person ;
+    schema:name "Holwerda, Frâns (1938-2000)" .
+
+nta:p106962701 a schema:Person ;
+    schema:name "Boer, Geart Hessel de" .
+
+nta:p108925420 a schema:Person ;
+    schema:name "Jongsma, Cees (1921-1996)" .
+
+nta:p113454570 a schema:Person ;
+    schema:name "Kruiderink, Rienk (1944-)" .
+
+nta:p121957128 a schema:Person ;
+    schema:name "Verbeek, Folkert (1931-)" .
+
+nta:p12971156X a schema:Person ;
+    schema:name "Flipse, Robert Paul (1944-)" .
+
+nta:p13141058X a schema:Person ;
+    schema:name "Brink, Aleid van den" .
+
+nta:p132861550 a schema:Person ;
+    schema:name "Koopmans, Anne (1933-2004)" .
+
+nta:p137674791 a schema:Person ;
+    schema:name "Nissen, Moritz Momme (1822-1902)" .
+
+nta:p148575587 a schema:Person ;
+    schema:name "Hettema, Tsjisse (1955-)" .
+
+nta:p148675972 a schema:Person ;
+    schema:name "Jong, Steven de (1962-)" .
+
+nta:p154362190 a schema:Person ;
+    schema:name "Hartog, Sybout (1949-)" .
+
+nta:p166246182 a schema:Person ;
+    schema:name "Slagter, Joop (1931-)" .
+
+nta:p17423614X a schema:Person ;
+    schema:name "Witbraad, Gryt (1944-)" .
+
+nta:p181405202 a schema:Person ;
+    schema:name "Jong, Boukje Tsjerkje de" .
+
+nta:p20428080X a schema:Person ;
+    schema:name "Bastiaans, Giny (1945-)" .
+
+nta:p238350479 a schema:Person ;
+    schema:name "Stuit, Sipke (1908-1974)" .
+
+nta:p241423252 a schema:Person ;
+    schema:name "Dijk, Pier Dirk van (1901-1967)" .
+
+nta:p24143064X a schema:Person ;
+    schema:name "Fokkema, Douwe (1890-1983)" .
+
+nta:p241586623 a schema:Person ;
+    schema:name "Kroes, Tine (1917-1992)" .
+
+nta:p241592550 a schema:Person ;
+    schema:name "Lievaert, Inge" .
+
+nta:p241663857 a schema:Person ;
+    schema:name "Porte, Anne (1902-1984)" .
+
+nta:p241741726 a schema:Person ;
+    schema:name "Terpstra, Anna" .
+
+nta:p241896428 a schema:Person ;
+    schema:name "Zuidema, Rixt Annemary (1951-)" .
+
+nta:p244026955 a schema:Person ;
+    schema:name "Meer, Steven van der (1945-)" .
+
+nta:p244030782 a schema:Person ;
+    schema:name "Piebenga, Sikke (1950-2014)" .
+
+nta:p277370159 a schema:Person ;
+    schema:name "Werf, Sytse van der (1951-)" .
+
+nta:p290731240 a schema:Person ;
+    schema:name "Cnossen, Yttje (1949-)" .
+
+nta:p314665056 a schema:Person ;
+    schema:name "Boer, Tjitske de (1972-)" .
+
+nta:p331652331 a schema:Person ;
+    schema:name "Bakker, Rien" .
+
+nta:p340506822 a schema:Person ;
+    schema:name "Hoekstra, A.T. (1982-)" .
+
+nta:p37164559X a schema:Person ;
+    schema:name "Poelman, Ronald (1954-)" .
+
+nta:p384111246 a schema:Person ;
+    schema:name "Rinsma, Gerard (1958-)" .
+
+nta:p400338718 a schema:Person ;
+    schema:name "Duintjer, Geert (1914-2014)" .
+
+nta:p402176561 a schema:Person ;
+    schema:name "Visser, Leo (Woudsend)" .
+
+nta:p412013207 a schema:Person ;
+    schema:name "Jong, Anny de" .
+
+nta:p419328513 a schema:Person ;
+    schema:name "Wit, Klaas de (1919- ; zuivel)" .
+
+wd:Q100901 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q100901" ;
+    schema:name "Elisabeth Augustin" .
+
+wd:Q106693229 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q106693229" ;
+    schema:name "Hans Clavin" .
+
+wd:Q108346146 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q108346146" ;
+    schema:name "Arie Gelderblom" .
+
+wd:Q110082119 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q110082119" ;
+    schema:name "Kees van Kalmthout" .
+
+wd:Q12355181 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q12355181" ;
+    schema:name "Sipke Stuit" .
+
+wd:Q13134620 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13134620" ;
+    schema:name "Anne Hellinga" .
+
+wd:Q13134626 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13134626" ;
+    schema:name "Anne Koopmans" .
+
+wd:Q13134627 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13134627" ;
+    schema:name "Anne Porte" .
+
+wd:Q13134743 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13134743" ;
+    schema:name "Bartle Laverman" .
+
+wd:Q13134749 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13134749" ;
+    schema:name "Baukje Wytsma" .
+
+wd:Q13135333 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135333" ;
+    schema:name "Douwe Kootstra" .
+
+wd:Q13135472 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135472" ;
+    schema:name "Eppie Dam" .
+
+wd:Q13135698 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135698" ;
+    schema:name "Froukje Annema" .
+
+wd:Q13135790 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135790" ;
+    schema:name "Geart van der Zwaag" .
+
+wd:Q13135800 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135800" ;
+    schema:name "Geert Jonkman" .
+
+wd:Q13135835 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135835" ;
+    schema:name "Gerben Brouwer" .
+
+wd:Q13135943 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135943" ;
+    schema:name "Gryt Witbraad" .
+
+wd:Q13135982 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13135982" ;
+    schema:name "Hannah Ludwig" .
+
+wd:Q13136062 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136062" ;
+    schema:name "Hein Faber" .
+
+wd:Q13136369 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136369" ;
+    schema:name "Jan Wybenga" .
+
+wd:Q13136418 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136418" ;
+    schema:name "Jo Smit" .
+
+wd:Q13136458 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136458" ;
+    schema:name "Johannes Doedes de Jong" .
+
+wd:Q13136485 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136485" ;
+    schema:name "Joop Boomsma" .
+
+wd:Q13136498 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136498" ;
+    schema:name "Josse de Haan" .
+
+wd:Q13136523 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136523" ;
+    schema:name "Jurjen van der Meer" .
+
+wd:Q13136552 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136552" ;
+    schema:name "Karel Ferdinand Gildemacher" .
+
+wd:Q13136560 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13136560" ;
+    schema:name "Karst Berkenbosch" .
+
+wd:Q13137000 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13137000" ;
+    schema:name "Margryt Poortstra" .
+
+wd:Q13137310 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13137310" ;
+    schema:name "Oene Spoelstra" .
+
+wd:Q13137416 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13137416" ;
+    schema:name "Paulus Akkerman" .
+
+wd:Q13137599 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13137599" ;
+    schema:name "Remco Heite" .
+
+wd:Q13138040 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138040" ;
+    schema:name "Steven Sterk" .
+
+wd:Q13138163 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138163" ;
+    schema:name "Swaantsje Monderman" .
+
+wd:Q13138221 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138221" ;
+    schema:name "Sytse van der Werf" .
+
+wd:Q13138297 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138297" ;
+    schema:name "Teije Brattinga" .
+
+wd:Q13138312 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138312" ;
+    schema:name "Thijs Polstra" .
+
+wd:Q13138337 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138337" ;
+    schema:name "Tine Bethlehem" .
+
+wd:Q13138340 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138340" ;
+    schema:name "Tineke Steenmeijer-Wielenga" .
+
+wd:Q13138365 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138365" ;
+    schema:name "Tjitte Piebenga" .
+
+wd:Q13138429 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138429" ;
+    schema:name "Tsjisse Hettema" .
+
+wd:Q13138431 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138431" ;
+    schema:name "Tsjits Peanstra" .
+
+wd:Q13138633 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138633" ;
+    schema:name "Wilco Berga" .
+
+wd:Q13138766 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13138766" ;
+    schema:name "Ypk fan der Fear" .
+
+wd:Q13390005 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13390005" ;
+    schema:name "Goaitsen van der Vliet" .
+
+wd:Q13405882 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13405882" ;
+    schema:name "Pier Boorsma" .
+
+wd:Q13405897 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13405897" ;
+    schema:name "Piter Boersma" .
+
+wd:Q13411192 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q13411192" ;
+    schema:name "Reinder van der Leest" .
+
+wd:Q14052173 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q14052173" ;
+    schema:name "Patricia Lasoen" .
+
+wd:Q14365854 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q14365854" ;
+    schema:name "Sonja Prins" .
+
+wd:Q14422436 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q14422436" ;
+    schema:name "Sybe Krol" .
+
+wd:Q14754390 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q14754390" ;
+    schema:name "Willem Bierman" .
+
+wd:Q1532558 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1532558" ;
+    schema:name "Aukje de Vries" .
+
+wd:Q15708645 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q15708645" ;
+    schema:name "Meinte Walta" .
+
+wd:Q15729894 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q15729894" ;
+    schema:name "Hendrik Johannes Bergveld" .
+
+wd:Q15876834 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q15876834" ;
+    schema:name "Jacques Idserda" .
+
+wd:Q16001797 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q16001797" ;
+    schema:name "Herman J. Adèr" .
+
+wd:Q16295500 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q16295500" ;
+    schema:name "Benny Holtrop" .
+
+wd:Q1639368 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1639368" ;
+    schema:name "Huub Oosterhuis" .
+
+wd:Q1682414 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1682414" ;
+    schema:name "Jan de Zanger" .
+
+wd:Q18092748 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18092748" ;
+    schema:name "Jelle Bangma" .
+
+wd:Q18092769 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18092769" ;
+    schema:name "Jan J. Bijlsma" .
+
+wd:Q18092912 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18092912" ;
+    schema:name "Freark Dam" .
+
+wd:Q18092942 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18092942" ;
+    schema:name "Jan Dotinga" .
+
+wd:Q18093001 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093001" ;
+    schema:name "Roel Falkena" .
+
+wd:Q18093049 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093049" ;
+    schema:name "Berber van der Geest" .
+
+wd:Q18093134 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093134" ;
+    schema:name "Lieuwe Hornstra" .
+
+wd:Q18093142 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093142" ;
+    schema:name "Bennie Huisman" .
+
+wd:Q18093195 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093195" ;
+    schema:name "Anny de Jong" .
+
+wd:Q18093211 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093211" ;
+    schema:name "Anne Jousma" .
+
+wd:Q18093217 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093217" ;
+    schema:name "Jelle Kaspersma" .
+
+wd:Q18093241 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093241" ;
+    schema:name "Simke Kloosterman" .
+
+wd:Q18093301 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093301" ;
+    schema:name "Hindrik van der Meer" .
+
+wd:Q18093347 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093347" ;
+    schema:name "Beart Oosterhaven" .
+
+wd:Q18093505 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18093505" ;
+    schema:name "Sjoerd Spanninga" .
+
+wd:Q18343114 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18343114" ;
+    schema:name "Douwe Fokkema, Sr." .
+
+wd:Q18562279 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q18562279" ;
+    schema:name "Albertus Bernard Wigman" .
+
+wd:Q1866693 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1866693" ;
+    schema:name "Wim Hazeu" .
+
+wd:Q1872478 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1872478" ;
+    schema:name "Lammert Wiersma" .
+
+wd:Q1891218 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1891218" ;
+    schema:name "Meindert Bijlsma" .
+
+wd:Q1971369 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q1971369" ;
+    schema:name "Hans Warren" .
+
+wd:Q2007463 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2007463" ;
+    schema:name "Peter van Lieshout" .
+
+wd:Q202489 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q202489" ;
+    schema:name "Gerrit Komrij" .
+
+wd:Q2027501 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2027501" ;
+    schema:name "Johanneke Liemburg" .
+
+wd:Q2044213 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2044213" ;
+    schema:name "Pieter Terpstra" .
+
+wd:Q2045342 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2045342" ;
+    schema:name "Gerrit Kouwenaar" .
+
+wd:Q2053872 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2053872" ;
+    schema:name "Sybren Polet" .
+
+wd:Q20567 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q20567" ;
+    schema:name "Moritz Momme Nissen" .
+
+wd:Q20604736 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q20604736" ;
+    schema:name "Jan Kooistra" .
+
+wd:Q20671 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q20671" ;
+    schema:name "Albrecht Johannsen" .
+
+wd:Q2090463 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2090463" ;
+    schema:name "Hanny Michaelis" .
+
+wd:Q2095949 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2095949" ;
+    schema:name "Kees Winkler" .
+
+wd:Q2115161 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2115161" ;
+    schema:name "Tom van Deel" .
+
+wd:Q2118856 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2118856" ;
+    schema:name "Frâns Holwerda" .
+
+wd:Q2129110 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2129110" ;
+    schema:name "Manuel Kneepkens" .
+
+wd:Q2143934 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2143934" ;
+    schema:name "Theun de Vries" .
+
+wd:Q2159141 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2159141" ;
+    schema:name "Jan Kal" .
+
+wd:Q2178745 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2178745" ;
+    schema:name "Hans van de Waarsenburg" .
+
+wd:Q2180070 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2180070" ;
+    schema:name "Neeltje Maria Min" .
+
+wd:Q2187305 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2187305" ;
+    schema:name "Gerard van Klinkenberg" .
+
+wd:Q2190644 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2190644" ;
+    schema:name "Eddy van Vliet" .
+
+wd:Q2195210 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2195210" ;
+    schema:name "Anne Anema" .
+
+wd:Q2206138 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2206138" ;
+    schema:name "Ans van der Werf-Terpstra" .
+
+wd:Q2232349 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2232349" ;
+    schema:name "C. Buddingh'" .
+
+wd:Q2233159 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2233159" ;
+    schema:name "Pita Grilk" .
+
+wd:Q2238621 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2238621" ;
+    schema:name "Wim Beckers" .
+
+wd:Q2241444 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2241444" ;
+    schema:name "Tiny Mulder" .
+
+wd:Q22691631 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q22691631" ;
+    schema:name "Wilfried Van Craen" .
+
+wd:Q2292828 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2292828" ;
+    schema:name "Rients Gratama" .
+
+wd:Q2312373 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2312373" ;
+    schema:name "Arie van den Berg" .
+
+wd:Q2314995 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2314995" ;
+    schema:name "Steven de Jong" .
+
+wd:Q2324712 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2324712" ;
+    schema:name "H.H. ter Balkt" .
+
+wd:Q2326102 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2326102" ;
+    schema:name "Ton van Reen" .
+
+wd:Q23581099 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q23581099" ;
+    schema:name "Wilfried Adams" .
+
+wd:Q242325 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q242325" ;
+    schema:name "Natasja Saad" .
+
+wd:Q2430283 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2430283" ;
+    schema:name "Frank Koenegracht" .
+
+wd:Q2430691 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2430691" ;
+    schema:name "Willem Roggeman" .
+
+wd:Q2434433 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2434433" ;
+    schema:name "Bert Schierbeek" .
+
+wd:Q24348706 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q24348706" ;
+    schema:name "Lamkje Hof-De Boer" .
+
+wd:Q2450659 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2450659" ;
+    schema:name "Jaap Zijlstra" .
+
+wd:Q2483303 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2483303" ;
+    schema:name "Hester Albach" .
+
+wd:Q2492353 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2492353" ;
+    schema:name "Ad den Besten" .
+
+wd:Q2510550 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2510550" ;
+    schema:name "Fedde Schurer" .
+
+wd:Q2516070 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2516070" ;
+    schema:name "Eeltsje Hettinga" .
+
+wd:Q25616658 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q25616658" ;
+    schema:name "Sybe Sybesma" .
+
+wd:Q2601231 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2601231" ;
+    schema:name "Trinus Riemersma" .
+
+wd:Q2675791 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2675791" ;
+    schema:name "Jules Deelder" .
+
+wd:Q2691629 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2691629" ;
+    schema:name "Fem Rutke" .
+
+wd:Q2691633 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2691633" ;
+    schema:name "Adam Jaarsma" .
+
+wd:Q2752558 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2752558" ;
+    schema:name "Titia Lont" .
+
+wd:Q2753658 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2753658" ;
+    schema:name "Mischa de Vreede" .
+
+wd:Q276704 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q276704" ;
+    schema:name "Jan Wagenaar" .
+
+wd:Q2783414 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2783414" ;
+    schema:name "Rutger Kopland" .
+
+wd:Q2872968 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2872968" ;
+    schema:name "Akky van der Veer" .
+
+wd:Q2889944 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q2889944" ;
+    schema:name "Jana Beranová" .
+
+wd:Q29552286 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q29552286" ;
+    schema:name "Hessel de Boer" .
+
+wd:Q3136813 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q3136813" ;
+    schema:name "Klaas Bruinsma" .
+
+wd:Q3189605 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q3189605" ;
+    schema:name "Sjoerd Kuyper" .
+
+wd:Q367612 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q367612" ;
+    schema:name "Adriaan Morriën" .
+
+wd:Q381390 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q381390" ;
+    schema:name "Andrei Amalrik" .
+
+wd:Q3974562 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q3974562" ;
+    schema:name "Henk Bloemhoff" .
+
+wd:Q4334696 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q4334696" ;
+    schema:name "Maurits Mok" .
+
+wd:Q487812 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q487812" ;
+    schema:name "Johan Veenstra" .
+
+wd:Q4896796 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q4896796" ;
+    schema:name "Douwe Tamminga" .
+
+wd:Q494665 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q494665" ;
+    schema:name "Pieter Jelles Troelstra" .
+
+wd:Q5171416 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q5171416" ;
+    schema:name "K. Schippers" .
+
+wd:Q52422406 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q52422406" ;
+    schema:name "Piter Yedema" .
+
+wd:Q52897839 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q52897839" ;
+    schema:name "Peter Nijmeijer" .
+
+wd:Q5319840 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q5319840" ;
+    schema:name "Peter van Bruggen" .
+
+wd:Q562144 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q562144" ;
+    schema:name "Gysbert Japiks" .
+
+wd:Q5628129 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q5628129" ;
+    schema:name "H. C. ten Berge" .
+
+wd:Q61106212 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q61106212" ;
+    schema:name "Jelmer M Samplonius" .
+
+wd:Q67197889 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q67197889" ;
+    schema:name "Marten Brouwer" .
+
+wd:Q6765769 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q6765769" ;
+    schema:name "Tsjêbbe Hettinga" .
+
+wd:Q7340159 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q7340159" ;
+    schema:name "Rob Goswin" .
+
+wd:Q7356244 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q7356244" ;
+    schema:name "Rod Jellema" .
+
+wd:Q739255 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q739255" ;
+    schema:name "Waling Dykstra" .
+
+wd:Q920 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q920" ;
+    schema:name "J. Bernlef" .
+
+wd:Q943780 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q943780" ;
+    schema:name "Justus Hiddes Halbertsma" .
+
+wd:Q95268837 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q95268837" ;
+    schema:name "Hans Sleutelaar" .
+
+wd:Q96949627 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q96949627" ;
+    schema:name "Josum Walstra" .
+
+wd:Q97259063 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q97259063" ;
+    schema:name "Syds Wiersma" .
+
+wd:Q97396435 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q97396435" ;
+    schema:name "Harry Hoogstraten" .
+
+wd:Q98804189 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q98804189" ;
+    schema:name "Jean de Tollenaer" .
+
+wd:Q98903915 a schema:Person ;
+    schema:image "https://wiki-thumb.hualab.nl/Q98903915" ;
+    schema:name "Jelle Brouwer" .
+
+nta:p069937826 a schema:Person ;
+    schema:name "Beer, Jan de (1898-1984)" .
+
+

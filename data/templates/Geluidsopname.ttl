@@ -1,0 +1,32 @@
+id:{{ID}} a schema:AudioObject ;
+    schema:identifier id:{{GUID}} , id:{{GUID}} , id:{{Code}} ;
+    schema:additionalType "{{Soort}}" ;
+    schema:name "{{Titel_Frysk}}"@fy ;
+    schema:materialExtent "{{BronFormaat}}" ;
+    schema:startDate "{{Beginjaar}}"^^xsd:date ;
+    schema:endDate "{{Eindjaar}}"^^xsd:date ;
+    schema:date "{{Datering}}" ;
+    schema:isPartOf id:{{TopID}} ;
+    schema:producer "{{Producent}}" ;
+    schema:isPartOf id:{{ParentID}} ;
+    schema:url <https://proxy.archieven.nl/0/{{GUID}}> ;
+    
+    {% if Opmerkingen %}
+        schema:comment "{{Opmerkingen | make_safe_literal }}" ;
+    {% endif %}
+
+    {% if Bestand_padnaam %}
+        schema:contentUrl "{{Bestand_padnaam | replace('player.html?bestand=', '')}}/{{Bestand_bestandsnaam}}" ;
+    {% elif Bestand_bestandsnaam %}
+        schema:contentUrl "https://stream.kultuer.frl/filminfriesland/{{Bestand_bestandsnaam | replace('player.html?bestand=', '')}}" ; 
+    {% endif %}    
+
+    {% if URI_Dichter %}
+        schema:creator <{{URI_Dichter | replace('doc/thes', 'id/thes') }}> ; 
+    {%endif%}
+
+    {% if Dichter %}
+        schema:creator "{{Dichter}}" ;
+        schema:creator id:{{Dichter | md5}}
+    {% endif %}
+.

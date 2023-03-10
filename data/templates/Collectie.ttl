@@ -1,0 +1,6 @@
+id:{{ID}} a schema:Collection ;
+	schema:identifier id:{{GUID}} , id:{{ID}} , id:{{Code}} ;
+	schema:additionalType "{{Soort}}" ;
+	schema:name "{{Titel}}" ;
+.
+

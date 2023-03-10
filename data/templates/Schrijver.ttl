@@ -1,0 +1,21 @@
+id:{{Schrijversnamen_OF | md5}} a schema:Person ;
+    schema:additionalType "Schrijver" ;
+    schema:name "{{Schrijversnamen_OF}}" ;
+    {% if date_of_birth | is_valid_isodate %} schema:birthDate "{{date_of_birth}}"^^xsd:date {% endif %} ;
+    {% if date_of_death | is_valid_isodate %} schema:deathDate "{{date_of_death}}"^^xsd:date {% endif %} ;
+    {% if Wikidata_Qnr %} schema:sameAs wd:{{Wikidata_Qnr}} ; {% endif %}
+    {% if NTA_URI %} schema:sameAs <{{NTA_URI}}> ; {% endif %}
+.
+
+{% if NTA_URI %}
+<{{NTA_URI}}>  a schema:Person ;
+    schema:name "{{namen_NTA}}" ;
+.
+{% endif %}
+
+{% if Wikidata_Qnr %}
+wd:{{Wikidata_Qnr}} a schema:Person ;
+    schema:name "{{Namen_Wikidata1}}" ;
+    schema:image "https://wiki-thumb.hualab.nl/{{Wikidata_Qnr}}"
+.
+{% endif %}

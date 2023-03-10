@@ -1,0 +1,7 @@
+# Placeholder images (optional)
+<https://tresoar.omeka.net/api/items/5295>     <https://schema.org/image> "https://via.placeholder.com/100x100" .
+<https://tresoar.omeka.net/api/item_sets/5171> <https://schema.org/image> "https://via.placeholder.com/100x100" .
+<https://tresoar.omeka.net/api/item_sets/435>  <https://schema.org/image> "https://via.placeholder.com/100x100" .
+<https://tresoar.omeka.net/api/items/103>      <https://schema.org/image> "https://via.placeholder.com/100x100" .
+<https://tresoar.omeka.net/api/media/5186>     <https://schema.org/image> "https://via.placeholder.com/100x100" .
+<https://tresoar.omeka.net/api/items/18>       <https://schema.org/image> "https://via.placeholder.com/100x100" .
