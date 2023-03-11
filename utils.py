@@ -38,7 +38,7 @@ def apply_liquid_template(template_filename, item, filters={}):
 def load_json_items(filename):
     return json.load(open(filename, encoding='utf-8-sig'))
 
-def load_csv_items(filename, delimiter=";"):
+def load_csv_items(filename, delimiter=","):
     return list(csv.DictReader(open(filename, encoding='utf-8-sig'), delimiter=delimiter))
 
 def load_items(filename):

@@ -20,6 +20,8 @@ id:00aa1ee4a3afbfd3f1032b8b0e52c482 a schema:Person ;
 
 id:017f2de6b8a7f1bf00cd78505e2ad708 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
+    schema:deathDate "1899-12-29"^^xsd:date ;
     schema:name "Halbertsma, Joast Hiddes" ;
     schema:sameAs wd:Q943780 .
 
@@ -46,6 +48,8 @@ id:055b7c9c58f688c4c645a53ad73156c4 a schema:Person ;
 
 id:05e4faaf7209988836f49f583e7cecc3 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
+    schema:deathDate "1899-12-29"^^xsd:date ;
     schema:name "Wagenaar, Jan" ;
     schema:sameAs nta:p068412789,
         wd:Q276704 .
@@ -100,6 +104,7 @@ id:09b6d384db2e6aa696cf3131851de650 a schema:Person ;
 
 id:09d5c16fb71ec0a2b39c55b927f4ad0e a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1902-12-29"^^xsd:date ;
     schema:name "Nissen, Moritz" ;
     schema:sameAs nta:p137674791,
@@ -249,6 +254,7 @@ id:1e8a4b396faf9817aa733f8012e53769 a schema:Person ;
 
 id:1f3073b1ea3bb8a6aff4deee34ae026c a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1968-03-19"^^xsd:date ;
     schema:name "Schurer, Fedde" ;
     schema:sameAs nta:p068610629,
@@ -375,6 +381,7 @@ id:2c05d23e4bda03245405500c08f42a44 a schema:Person ;
 
 id:2d61ed573be314bc7f5962d4335f6d74 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1967-01-01"^^xsd:date ;
     schema:name "Johannsen, Albrecht" ;
     schema:sameAs nta:p07435440X,
@@ -471,6 +478,7 @@ id:37748a528c0d33aad2ef469877ceb016 a schema:Person ;
 
 id:398c4a7f8e2918baa8a10fc730322942 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1930-05-12"^^xsd:date ;
     schema:name "Troelstra, Piter Jelles" ;
     schema:sameAs wd:Q494665 .
@@ -690,6 +698,8 @@ id:55f06fcb0765a0a21a911ecc3579663d a schema:Person ;
 
 id:55fafbb730689c8414b609f4eb1ab75c a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
+    schema:deathDate "1899-12-29"^^xsd:date ;
     schema:name "Tollenaer, A. de" ;
     schema:sameAs wd:Q98804189 .
 
@@ -768,6 +778,7 @@ id:61518c526afc56ec761e6eabcb4d4123 a schema:Person ;
 
 id:627ab4ae5e74f158e46e8e9b80d1f337 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1983-01-01"^^xsd:date ;
     schema:name "Fokkema, Douwe" ;
     schema:sameAs nta:p24143064X,
@@ -979,6 +990,8 @@ id:800a6eb24ec2106c938c7cc59dd6657d a schema:Person ;
 
 id:8052e6a6132c023867fceba9478f2dde a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
+    schema:deathDate "1899-12-29"^^xsd:date ;
     schema:name "Gysbert Japicx" ;
     schema:sameAs nta:p068659660,
         wd:Q562144 .
@@ -1275,6 +1288,7 @@ id:b4347437b997d1906526d8cc9c8ed7d5 a schema:Person ;
 
 id:b51b6c99978d17cf4f8ae4c9bc4c48de a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1980-11-01"^^xsd:date ;
     schema:name "Wiersma, Lammert" ;
     schema:sameAs wd:Q1872478 .
@@ -1398,6 +1412,7 @@ id:bf905ca3498ac854403fb48ddf4b7b7d a schema:Person ;
 
 id:c0bff88bd1b895cb20544fac479fa465 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1966-02-18"^^xsd:date ;
     schema:name "Anema, Anne" ;
     schema:sameAs nta:p068921217,
@@ -1468,6 +1483,7 @@ id:c50adbd55bf354abeece8395df352353 a schema:Person ;
 
 id:c661d4ca29bc04edbc74999d31795931 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1914-01-05"^^xsd:date ;
     schema:name "Dykstra, Waling" ;
     schema:sameAs nta:p070344256,
@@ -1703,6 +1719,7 @@ id:d7dab78d137770c494c91d52d0abd73b a schema:Person ;
 
 id:d857dba20ff9bc49157bb26803b86a4f a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1972-01-01"^^xsd:date ;
     schema:name "Wigman, A.B." ;
     schema:sameAs nta:p073503789,
@@ -1816,6 +1833,7 @@ id:eaaa52987ad17b06d303591023b6cd35 a schema:Person ;
 
 id:ecf4472d52de4b20556c9c40a0cfa025 a schema:Person ;
     schema:additionalType "Schrijver" ;
+    schema:birthDate "1899-12-29"^^xsd:date ;
     schema:deathDate "1938-01-01"^^xsd:date ;
     schema:name "Kloosterman, Simke" ;
     schema:sameAs nta:p068770812,
