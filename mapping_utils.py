@@ -2,6 +2,7 @@ from liquid import Liquid
 import json,csv,hashlib,re,sys
 from datetime import datetime
 from rdflib import Graph, Literal
+from tqdm import tqdm
 
 def data_mapping(input_filename, header_filename, template_filename, output_filename, limit=0):
   items = load_items(input_filename)
@@ -77,7 +78,7 @@ def apply_liquid_templates(items, template_filename="templates/Default.ttl", fil
           replace_keys_by_values(template_filename, item), 
           make_safe_keys(item),
           filters=filters
-        ) for item in items
+        ) for item in tqdm(items)
     )
 
 def md5(s):
