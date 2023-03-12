@@ -5,31 +5,34 @@ from rdflib import Graph, Literal
 from tqdm import tqdm
 
 def data_mapping(input_filename, header_filename, template_filename, output_filename, limit=0):
-  items = load_items(input_filename)
+  print("Test123")
+  return
+  
+  # items = load_items(input_filename)
 
-  if limit>0:
-    items = items[:limit]
+  # if limit>0:
+  #   items = items[:limit]
 
-  filters = {
-      "make_safe_literal": make_safe_literal,
-      "is_valid_isodate": is_valid_isodate,
-      "md5": md5
-  }
+  # filters = {
+  #     "make_safe_literal": make_safe_literal,
+  #     "is_valid_isodate": is_valid_isodate,
+  #     "md5": md5
+  # }
 
-  ttl = open(header_filename).read()
+  # ttl = open(header_filename).read()
 
-  for item in tqdm(items):
-    ttl += apply_liquid_template(
-        replace_keys_by_values(template_filename, item), 
-        make_safe_keys(item),
-        filters=filters
-      ) + "\n"
+  # for item in tqdm(items):
+  #   ttl += apply_liquid_template(
+  #       replace_keys_by_values(template_filename, item), 
+  #       make_safe_keys(item),
+  #       filters=filters
+  #     ) + "\n"
 
-  g = Graph()
-  g.parse(data=ttl)
-  g.remove((None, None, Literal(""))) #remove triples with empty literals
-  with open(output_filename,"w") as f:
-    print(g.serialize(),file=f)
+  # g = Graph()
+  # g.parse(data=ttl)
+  # g.remove((None, None, Literal(""))) #remove triples with empty literals
+  # with open(output_filename,"w") as f:
+  #   print(g.serialize(),file=f)
 
 def make_safe_literal(s): # replace single " quote by double "" and add quotes
   s = s.strip()
