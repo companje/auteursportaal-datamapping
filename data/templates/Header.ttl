@@ -1,4 +1,4 @@
-@prefix id: <https://collectie-operaesje-fers.archief.io/id/> .
+@prefix id: <https://tresoar.nl/id/> .
 @prefix nta: <http://data.bibliotheken.nl/id/thes/> .
 @prefix schema: <https://schema.org/> .
 @prefix wd: <http://www.wikidata.org/entity/> .

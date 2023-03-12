@@ -1,4 +1,0 @@
-liquidpy
-rdflib
-pandas
-openpyxl

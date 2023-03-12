@@ -1,14 +1,13 @@
 id:{{ID}} a schema:AudioObject ;
-    schema:identifier id:{{GUID}} , id:{{GUID}} , id:{{Code}} ;
+    schema:identifier id:{{ID}} , id:{{GUID}} , id:{{Code}} ;
     schema:additionalType "{{Soort}}" ;
     schema:name "{{Titel_Frysk}}"@fy ;
     schema:materialExtent "{{BronFormaat}}" ;
     schema:startDate "{{Beginjaar}}"^^xsd:date ;
     schema:endDate "{{Eindjaar}}"^^xsd:date ;
     schema:date "{{Datering}}" ;
-    schema:isPartOf id:{{TopID}} ;
+    schema:isPartOf id:{{TopID}}, id:{{ParentID}} ;
     schema:producer "{{Producent}}" ;
-    schema:isPartOf id:{{ParentID}} ;
     schema:url <https://proxy.archieven.nl/0/{{GUID}}> ;
     
     {% if Opmerkingen %}

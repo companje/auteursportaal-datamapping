@@ -2,3 +2,7 @@
 .DS_Store
 *.pyc
 data/omeka/*.json
+data/result/*
+!data/result/placeholders.json
+data/excel/*.csv
+data/mais/*.json
