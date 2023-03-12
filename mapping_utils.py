@@ -17,7 +17,13 @@ def data_mapping(input_filename, header_filename, template_filename, output_file
   }
 
   ttl = open(header_filename).read()
-  ttl += apply_liquid_templates(items=items, template_filename=template_filename, filters=filters)
+
+  for item in tqdm(items):
+    ttl += apply_liquid_template(
+        replace_keys_by_values(template_filename, item), 
+        make_safe_keys(item),
+        filters=filters
+      ) + "\n"
 
   g = Graph()
   g.parse(data=ttl)
@@ -71,15 +77,6 @@ def load_items(filename):
     return load_json_items(filename)
   else:
     sys.exit(f"unknown file type: {filename}")
-
-def apply_liquid_templates(items, template_filename="templates/Default.ttl", filters={}):
-    return '\n'.join(
-        apply_liquid_template(
-          replace_keys_by_values(template_filename, item), 
-          make_safe_keys(item),
-          filters=filters
-        ) for item in tqdm(items)
-    )
 
 def md5(s):
     return hashlib.md5(s.encode()).hexdigest()
