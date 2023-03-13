@@ -13,7 +13,9 @@ def data_mapping(input_filename, header_filename, template_filename, output_file
   filters = {
       "make_safe_literal": make_safe_literal,
       "is_valid_isodate": is_valid_isodate,
-      "md5": md5
+      "md5": md5,
+      "lat": get_latitude,
+      "lon": get_longitude
   }
 
   ttl = open(header_filename).read()
@@ -49,6 +51,20 @@ def make_safe_URI_part(s):
     # fix this by replacing by 'x' for example
     s="x"
   return s.lower()
+
+def get_latitude(s):
+  try:
+    lat,lon = re.findall(r"([\d\.]+),\s*([\d\.]+)",s)[0]
+    return lat
+  except:
+    return ""
+ 
+def get_longitude(s):
+  try:
+    lat,lon = re.findall(r"([\d\.]+),\s*([\d\.]+)",s)[0]
+    return lon
+  except:
+    return ""
 
 def make_safe_key_name(s): # for Liquid templates
   return s.replace(' ', '_').replace('?','')
